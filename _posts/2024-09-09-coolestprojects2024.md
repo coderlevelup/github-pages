@@ -21,7 +21,7 @@ Coolest Projects is the world's leading technology fair for young people. This y
 
 This year we're delighted to announce that our Cape Town event will have 2 satellite events in Kwa-Zulu Natal and the Eastern Cape.
 
-## WC: Cape Town: [TBC]
+## WC: Cape Town: New Faculty of Education Building, UWC
 
 ## KZN: Durban: Blue Roof, the Bluff.
 
