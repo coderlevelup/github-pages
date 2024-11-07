@@ -15,11 +15,12 @@ excerpt_separator: <!--more-->
 Coolest Projects is the world's leading technology fair for young people. This year for the fifth time in Africa!
 
 # When? 
-## 11:00am 9 Nov 2024
+## 11:00am on Saturday the 9th of November 2024
 
 # Where?
 
 This year we're delighted to announce that our Cape Town event will have 2 satellite events in Kwa-Zulu Natal and the Eastern Cape.
+You can also enter remotely - see below for details.
 
 ## Western Cape: Cape Town
 
