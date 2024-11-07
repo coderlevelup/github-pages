@@ -23,10 +23,16 @@ This year we're delighted to announce that our Cape Town event will have 2 satel
 
 ## WC: Cape Town: New Faculty of Education Building, UWC
 
+https://maps.app.goo.gl/4kyTgtHgk7bzbKKb7
+
 ## KZN: Durban: Blue Roof, the Bluff.
+
+https://maps.app.goo.gl/FkTmnHq23H3cUMxLA
+
 
 ## EC: East London: MMELI
 
+https://maps.app.goo.gl/CjogSkSVUaP1s46d6
 
 # How do I enter?
 
