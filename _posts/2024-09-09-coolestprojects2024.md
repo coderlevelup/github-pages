@@ -21,18 +21,25 @@ Coolest Projects is the world's leading technology fair for young people. This y
 
 This year we're delighted to announce that our Cape Town event will have 2 satellite events in Kwa-Zulu Natal and the Eastern Cape.
 
-## WC: Cape Town: New Faculty of Education Building, UWC
+## Western Cape: Cape Town
 
-https://maps.app.goo.gl/4kyTgtHgk7bzbKKb7
+Coolest Projects 2024 will be held in Cape Town at the New Faculty of Education Building at the university of the Western Cape. Maps and directions:
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3310.225765320111!2d18.6294541!3d-33.935320999999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1dcc5162ea54a869%3A0x193af72751c7a9e3!2sFaculty%20of%20Education!5e0!3m2!1sen!2sza!4v1730995566686!5m2!1sen!2sza" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+[New Faculty of Education Building, UWC](https://maps.app.goo.gl/4kyTgtHgk7bzbKKb7)
 
-## KZN: Durban: Blue Roof, the Bluff.
+## KZN: Durban
 
-https://maps.app.goo.gl/FkTmnHq23H3cUMxLA
+Coolest Projects 2024 will be held in Kwa-Zulu Natal at Blue Roof in Durban. Maps and directions:
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3457.396829089573!2d30.9837!3d-29.939262299999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1ef7ac02e9202971%3A0xda1f39c7fb36f658!2sThe%20Blue%20Roof%20Life%20Space!5e0!3m2!1sen!2sza!4v1730995753413!5m2!1sen!2sza" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+[Blue Roof, the Bluff](https://maps.app.goo.gl/FkTmnHq23H3cUMxLA)
+178 Austerville Drive, Wentworth, Durban
 
+## EC: East London:
 
-## EC: East London: MMELI
-
-https://maps.app.goo.gl/CjogSkSVUaP1s46d6
+Coolest Projects 2024 will be held in the Eastern Cape at the Mandle Makupula Education Leadership Institute in East London. Maps and directions:
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3433.4220495285226!2d27.926852935335567!3d-32.99321769385759!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1e671e2b819c439d%3A0x14511516d72e3db1!2sEducation%20Leadership%20Institute!5e0!3m2!1sen!2sza!4v1730995868151!5m2!1sen!2sza" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+[MMELI](https://maps.app.goo.gl/CjogSkSVUaP1s46d6)
+Epsom Rd, Stirling, East London
 
 # How do I enter?
 
