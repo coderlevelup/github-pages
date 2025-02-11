@@ -16,6 +16,8 @@ Resources to support your club.
 
 Content, printables and more! From Raspberry Pi, Google, Microsoft, MIT, and DBE.
 
+If you are starting a club with us, [register your Official Raspberry Pi Foundation code club](https://codeclub.org/p/coder-level-up) to join the network, find mentors and put your club on the map!
+
 <!--more-->
 
 # Raspberry Pi Foundation
