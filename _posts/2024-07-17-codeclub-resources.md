@@ -57,23 +57,11 @@ Code Club has been growing in schools and South Africa now (July2024) has:
 If you're curious to see if there is already a club near you to connect with, you can check out:
  * code club: [find a Code Club](https://codeclub.org/en/clubs?clubs_search%5Bcountry%5D=ZA&clubs_search%5Bq%5D=cape+town&commit=Find+a+Code+Club) (change the location and range to find more clubs)
 
-# Google
+# arm education
 
-## CS First
-Teach computer programming and coding to your kids with the CS First curriculum, free of charge. Students can create fun, interactive projects.
+## micro:bit project-based "micro:course"
 
-[csfirst.withgoogle.com](https://csfirst.withgoogle.com/s/en/home)
-
-
-# Digital Skills for Africa
-Whether you're writing your first CV or deepening your technical knowledge, our library is full of ways to sharpen your digital skillset.
-
-[grow.google/intl/ssa-en](https://grow.google/intl/ssa-en/#filter)
-
-# Tech Dev Guide
-If you have foundational skills and want to go to the next level, there’s something for you here in Google’s Tech Dev Guide.
-
-[techdevguide.withgoogle.com](https://techdevguide.withgoogle.com)
+https://www.arm.com/resources/education/schools/content/microcourse
 
 # Microsoft Research
 
@@ -96,5 +84,24 @@ A Blocks / JavaScript code editor for MakeCode Maker Boards including pi pico.
 Tap into your students' full potential with Code.org's free Computer Science (CS) curriculum.
 
 [code.org](https://code.org/) 
+
+# Google
+
+## CS First
+Teach computer programming and coding to your kids with the CS First curriculum, free of charge. Students can create fun, interactive projects.
+
+[csfirst.withgoogle.com](https://csfirst.withgoogle.com/s/en/home)
+
+
+# Digital Skills for Africa
+Whether you're writing your first CV or deepening your technical knowledge, our library is full of ways to sharpen your digital skillset.
+
+[grow.google/intl/ssa-en](https://grow.google/intl/ssa-en/#filter)
+
+# Tech Dev Guide
+If you have foundational skills and want to go to the next level, there’s something for you here in Google’s Tech Dev Guide.
+
+[techdevguide.withgoogle.com](https://techdevguide.withgoogle.com)
+
 
 Looking forward to seeing what you make in your club!
