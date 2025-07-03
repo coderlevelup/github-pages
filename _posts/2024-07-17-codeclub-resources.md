@@ -59,7 +59,9 @@ If you're curious to see if there is already a club near you to connect with, yo
 
 # arm education
 
-## micro:bit project-based "micro:course"
+## micro:bit micro:course
+
+A collection of guided projects that explore applications of technology in a variety of contexts. The projects use the Arm School Program pedagogical approach and are designed to be self-paced and go from first principles through to programming in Python.
 
 https://www.arm.com/resources/education/schools/content/microcourse
 
