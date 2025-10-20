@@ -71,8 +71,8 @@ Epsom Rd, Stirling, East London
 # How do I enter?
 
 Register here: 
+[Coolest Projects 2025 South Africa Entry Form](https://forms.gle/Af5ckEKEvZN4nG9C9)
 
-[Link coming soon...]()
 
 # Who can enter Coolest Projects?
  * any young person up to the age of 18 (or still in school)
@@ -99,7 +99,7 @@ Entries can be in one of the following categories:
 # How do I take part?
 
 Register here: 
-[Link coming soon...]()
+[Coolest Projects 2025 South Africa Entry Form](https://forms.gle/Af5ckEKEvZN4nG9C9)
 
 ## In Person
 Simply bring yourself and your project to the event!
@@ -122,4 +122,4 @@ We're looking forward to announcing more sponsors soon, please get in touch if y
 
 ## Contact details
 For most things, mail to coolestprojects@coderlevelup.org
-or for urgent contact, whatsapp/phone :David on +27 82 829 7212 or Anelisa 079 115 0597
+or for urgent contact, whatsapp/phone Anelisa 079 115 0597
