@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
+  <link href="/tag/codeclub/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="/" rel="alternate" type="text/html" />
+  <updated>2025-10-20T15:41:53+00:00</updated>
+  <id>/tag/codeclub/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">CoderLevelUp | </title>
+  
+
+  
+    <subtitle>Levelling up our coding community, in Africa.</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">Code Club Resources</title>
+      <link href="/codeclub-resources" rel="alternate" type="text/html" title="Code Club Resources" />
+      <published>2024-07-17T14:30:00+00:00</published>
+      <updated>2024-07-17T14:30:00+00:00</updated>
+      <id>/codeclub-resources</id>
+      <content type="html" xml:base="/codeclub-resources">&lt;p&gt;Resources to support your club.&lt;/p&gt;
+
+&lt;p&gt;Content, printables and more! From Raspberry Pi, Google, Microsoft, MIT, and DBE.&lt;/p&gt;
+
+&lt;p&gt;If you are starting a club with us, &lt;a href=&quot;https://codeclub.org/p/coder-level-up&quot;&gt;register your Official Raspberry Pi Foundation code club&lt;/a&gt; to join the network, find mentors and put your club on the map!&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;h1 id=&quot;raspberry-pi-foundation&quot;&gt;Raspberry Pi Foundation&lt;/h1&gt;
+
+&lt;p&gt;The Raspberry Pi foundation works to make coding more accessible to young people. Code club is one pillar that supports this goal, and these free resources are there to help you along your journey.&lt;/p&gt;
+
+&lt;h2 id=&quot;pathways&quot;&gt;Pathways&lt;/h2&gt;
+
+&lt;p&gt;Paths are a series of 6 projects that help to build your coding and design skills. Paths will help you gain new skills, then make design choices to personalise your projects, and finally create something unique.&lt;/p&gt;
+
+&lt;p&gt;Are you a mentor? Have a look at our &lt;a href=&quot;https://projects.raspberrypi.org/en/projects/321-make-mentor-guide&quot;&gt;guide to paths&lt;/a&gt;.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://projects.raspberrypi.org/en/collections/scratch&quot;&gt;Scratch Pathways&lt;/a&gt; Begin your adventure in digital making, by learning to code animations, stories, and games in Scratch.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://projects.raspberrypi.org/en/collections/microbit&quot;&gt;micro:bit pathways&lt;/a&gt; sensors, buttons and lights! In this introduction to coding for the micro:bit, you will learn how to sense and respond to the world around you while looking after yourself.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://projects.raspberrypi.org/en/paths&quot;&gt;more pathways…&lt;/a&gt; in Unity, HTML + CSS, Python, Raspberry Pi&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;code-club-on-a-stick&quot;&gt;code club “on a stick”&lt;/h2&gt;
+
+&lt;p&gt;To run code club in classrooms without internet connections, you can copy the code club on a stick folder onto a flash drive and it has installers for scratch and pdfs for all of the scratch pathways.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://bit.ly/codeclub-stick&quot;&gt;bit.ly/codeclub-stick&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;code-club-community-of-practice&quot;&gt;code club Community of Practice&lt;/h2&gt;
+
+&lt;p&gt;You can also learn by plugging into dynamic people running clubs near &amp;amp; far.&lt;/p&gt;
+
+&lt;p&gt;Try joining an event from &lt;a href=&quot;https://codeclub.org/en/events&quot;&gt;code club Training &amp;amp; Events&lt;/a&gt; to learn and connect with the global community of practice.&lt;/p&gt;
+
+&lt;p&gt;Code Club has been growing in schools and South Africa now (July2024) has:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;148+ clubs running in Western Cape led by Anelisa Masebe in collaboration with WCED and SADTU&lt;/li&gt;
+  &lt;li&gt;Libraries: we’re piloting &lt;a href=&quot;https://help.coderdojo.com/cdkb/s/article/CoderDojo-in-the-library&quot;&gt;CoderDojo in the Library&lt;/a&gt; with Cape Town City Libraries identifying an initial 5-10 libraries, which means any of the 104 (yep!) libraries in the city will be potential pilots, and ultimately we’d like to see them all running.&lt;/li&gt;
+  &lt;li&gt;200+ clubs running in KZN led by Julia Reader in collaboration with Keep a Child Alive and Blue Roof&lt;/li&gt;
+  &lt;li&gt;2 new school clubs and 1 library starting led by Esethu Stofile of ECDoE&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;If you’re curious to see if there is already a club near you to connect with, you can check out:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;code club: &lt;a href=&quot;https://codeclub.org/en/clubs?clubs_search%5Bcountry%5D=ZA&amp;amp;clubs_search%5Bq%5D=cape+town&amp;amp;commit=Find+a+Code+Club&quot;&gt;find a Code Club&lt;/a&gt; (change the location and range to find more clubs)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;arm-education&quot;&gt;arm education&lt;/h1&gt;
+
+&lt;h2 id=&quot;microbit-microcourse&quot;&gt;micro:bit micro:course&lt;/h2&gt;
+
+&lt;p&gt;A collection of guided projects that explore applications of technology in a variety of contexts. The projects use the Arm School Program pedagogical approach and are designed to be self-paced and go from first principles through to programming in Python.&lt;/p&gt;
+
+&lt;p&gt;https://www.arm.com/resources/education/schools/content/microcourse&lt;/p&gt;
+
+&lt;h1 id=&quot;microsoft-research&quot;&gt;Microsoft Research&lt;/h1&gt;
+
+&lt;h2 id=&quot;microbit-makecode&quot;&gt;micro:bit MakeCode&lt;/h2&gt;
+&lt;p&gt;A Blocks / JavaScript code editor for the micro:bit powered by Microsoft MakeCode.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://makecode.microbit.org&quot;&gt;makecode.microbit.org&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;makecode-arcade&quot;&gt;MakeCode Arcade&lt;/h2&gt;
+&lt;p&gt;Develop your programming skills by quickly creating and modding retro arcade games with Blocks and JavaScript in the MakeCode editor.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://arcade.makecode.com&quot;&gt;arcade.makecode.com&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;makecode-maker&quot;&gt;MakeCode Maker&lt;/h2&gt;
+&lt;p&gt;A Blocks / JavaScript code editor for MakeCode Maker Boards including pi pico.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://maker.makecode.com&quot;&gt;maker.makecode.com&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;codeorg&quot;&gt;code.org&lt;/h1&gt;
+&lt;p&gt;Tap into your students’ full potential with Code.org’s free Computer Science (CS) curriculum.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://code.org/&quot;&gt;code.org&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;google&quot;&gt;Google&lt;/h1&gt;
+
+&lt;h2 id=&quot;cs-first&quot;&gt;CS First&lt;/h2&gt;
+&lt;p&gt;Teach computer programming and coding to your kids with the CS First curriculum, free of charge. Students can create fun, interactive projects.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://csfirst.withgoogle.com/s/en/home&quot;&gt;csfirst.withgoogle.com&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;digital-skills-for-africa&quot;&gt;Digital Skills for Africa&lt;/h1&gt;
+&lt;p&gt;Whether you’re writing your first CV or deepening your technical knowledge, our library is full of ways to sharpen your digital skillset.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://grow.google/intl/ssa-en/#filter&quot;&gt;grow.google/intl/ssa-en&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;tech-dev-guide&quot;&gt;Tech Dev Guide&lt;/h1&gt;
+&lt;p&gt;If you have foundational skills and want to go to the next level, there’s something for you here in Google’s Tech Dev Guide.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://techdevguide.withgoogle.com&quot;&gt;techdevguide.withgoogle.com&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Looking forward to seeing what you make in your club!&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Campey</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="codeclub" />
+      
+
+      
+        <summary type="html">Resources to support your club. Content, printables and more! From Raspberry Pi, Google, Microsoft, MIT, and DBE. If you are starting a club with us, register your Official Raspberry Pi Foundation code club to join the network, find mentors and put your club on the map!</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Volunteers needed at coding clubs</title>
+      <link href="/volunteers-needed" rel="alternate" type="text/html" title="Volunteers needed at coding clubs" />
+      <published>2023-05-09T00:30:00+00:00</published>
+      <updated>2023-05-09T00:30:00+00:00</updated>
+      <id>/volunteers-needed</id>
+      <content type="html" xml:base="/volunteers-needed">&lt;p&gt;Helping young people develop new skills and explore their creativity is very
+rewarding. Also, it’s a lot of fun!&lt;/p&gt;
+
+&lt;p&gt;Code Club &amp;amp; CoderDojo are free volunteer-led coding clubs for young people that are always looking for volunteers!&lt;/p&gt;
+
+&lt;h1 id=&quot;we-need-your-help&quot;&gt;We need your help!&lt;/h1&gt;
+
+&lt;p&gt;You could become a mentor and help young people learn to code. To help beginners, you don’t even need technical skills!&lt;/p&gt;
+
+&lt;p&gt;You could also help with setting up the space and recording attendance for the club sessions. You could help a club run its social media presence or website!&lt;/p&gt;
+
+&lt;h1 id=&quot;venues-in-western-cape&quot;&gt;Venues in Western Cape&lt;/h1&gt;
+
+&lt;p&gt;Code Club has been growing in schools thanks to the efforts of Anelisa together with WCED and SADTU and we now (May 2024) 
+have 90+ school clubs and 4 community Coderdojos in the Western Cape.&lt;/p&gt;
+
+&lt;p&gt;If you’re curious to see if there is already a club near you, you can check out:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;code club: &lt;a href=&quot;https://codeclub.org/en/clubs?clubs_search%5Bcountry%5D=ZA&amp;amp;clubs_search%5Bq%5D=cape+town&amp;amp;commit=Find+a+Code+Club&quot;&gt;find a Code Club&lt;/a&gt; (change the location and range to find more clubs)&lt;/li&gt;
+  &lt;li&gt;CoderDojo: &lt;a href=&quot;https://coderdojo.com/en/find?search=cape+town&amp;amp;distance=50&amp;amp;unit=miles&amp;amp;lat=&amp;amp;lng=&quot;&gt;find a Dojo&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Even more venues coming soon:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Schools: Our Region has has 1500 schools, 97% with computer rooms with internet, and we’ve partnering with WCED to train teachers to start clubs, so more schools coming soon.&lt;/li&gt;
+  &lt;li&gt;Libraries: we’re piloting &lt;a href=&quot;https://help.coderdojo.com/cdkb/s/article/CoderDojo-in-the-library&quot;&gt;CoderDojo in the Library&lt;/a&gt; with Cape Town City Libraries identifying an initial 5-10 libraries, which means any of the 104 (yep!) libraries in the city will be potential pilots, and ultimately we’d like to see them all running.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;volunteering&quot;&gt;Volunteering&lt;/h1&gt;
+&lt;p&gt;As we’re growing, and venues are opening up to be willing to host or starting clubs more volunteers are needed. More volunteers at clubs help get a better outcome for young people across the network.&lt;/p&gt;
+
+&lt;p&gt;We’re here to help you be a great volunteer, whether you’re a coder, an educator, a parent or anything in-between.&lt;/p&gt;
+
+&lt;p&gt;More info on volunteering:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://codeclub.org/en/volunteer&quot;&gt;https://codeclub.org/en/volunteer&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://coderdojo.com/en/volunteer&quot;&gt;https://coderdojo.com/en/volunteer&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Training for 1st time volunteers:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Ideally please do this 30 min safeguarding e-learning module. &lt;a href=&quot;https://projects.raspberrypi.org/en/projects/safeguarding-module/&quot;&gt;https://projects.raspberrypi.org/en/projects/safeguarding-module/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Training for mentoring (helping young people with code):&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;a good one to review on how / where you’ll be helping. &lt;a href=&quot;https://projects.raspberrypi.org/en/projects/dojo-mentoring/&quot;&gt;https://projects.raspberrypi.org/en/projects/dojo-mentoring/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Specifically, we’ll start most newcomers on “space talk”, the first step in the scratch pathway, that you can play through here: &lt;a href=&quot;https://projects.raspberrypi.org/en/projects/space-talk&quot;&gt;https://projects.raspberrypi.org/en/projects/space-talk&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Plus there’ll be lots of friendly fellow mentors and teachers along on the journey.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;If you want to volunteer, (or start a club at your school, or donate, or anything else you can imagine to help), please fill in this &lt;a href=&quot;https://forms.gle/q9p7D1rM3CT7Upsj8&quot;&gt;Coder:Levelup Volunteer details&lt;/a&gt; form or mail &lt;a href=&quot;mailto:volunteer@coderlevelup.org&quot;&gt;volunteer@coderlevelup.org&lt;/a&gt;.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Campey</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="codeclub" />
+      
+        <category term="coderdojo" />
+      
+
+      
+        <summary type="html">Helping young people develop new skills and explore their creativity is very rewarding. Also, it’s a lot of fun! Code Club &amp;amp; CoderDojo are free volunteer-led coding clubs for young people that are always looking for volunteers! We need your help! You could become a mentor and help young people learn to code. To help beginners, you don’t even need technical skills! You could also help with setting up the space and recording attendance for the club sessions. You could help a club run its social media presence or website! Venues in Western Cape Code Club has been growing in schools thanks to the efforts of Anelisa together with WCED and SADTU and we now (May 2024) have 90+ school clubs and 4 community Coderdojos in the Western Cape. If you’re curious to see if there is already a club near you, you can check out: code club: find a Code Club (change the location and range to find more clubs) CoderDojo: find a Dojo Even more venues coming soon: Schools: Our Region has has 1500 schools, 97% with computer rooms with internet, and we’ve partnering with WCED to train teachers to start clubs, so more schools coming soon. Libraries: we’re piloting CoderDojo in the Library with Cape Town City Libraries identifying an initial 5-10 libraries, which means any of the 104 (yep!) libraries in the city will be potential pilots, and ultimately we’d like to see them all running. Volunteering As we’re growing, and venues are opening up to be willing to host or starting clubs more volunteers are needed. More volunteers at clubs help get a better outcome for young people across the network. We’re here to help you be a great volunteer, whether you’re a coder, an educator, a parent or anything in-between. More info on volunteering: https://codeclub.org/en/volunteer https://coderdojo.com/en/volunteer Training for 1st time volunteers: Ideally please do this 30 min safeguarding e-learning module. https://projects.raspberrypi.org/en/projects/safeguarding-module/ Training for mentoring (helping young people with code): a good one to review on how / where you’ll be helping. https://projects.raspberrypi.org/en/projects/dojo-mentoring/ Specifically, we’ll start most newcomers on “space talk”, the first step in the scratch pathway, that you can play through here: https://projects.raspberrypi.org/en/projects/space-talk Plus there’ll be lots of friendly fellow mentors and teachers along on the journey.</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">About Code Club</title>
+      <link href="/codeclub" rel="alternate" type="text/html" title="About Code Club" />
+      <published>2023-01-15T10:30:00+00:00</published>
+      <updated>2023-01-15T10:30:00+00:00</updated>
+      <id>/codeclub</id>
+      <content type="html" xml:base="/codeclub">&lt;p&gt;Code clubs are school-based extra-mural clubs for young people, practicing coding from first steps through projects in the project pathway.&lt;/p&gt;
+
+&lt;p&gt;Code Club provides the resources and support to help teachers start successful coding clubs.&lt;/p&gt;
+
+&lt;p&gt;Coder:LevelUp is the Western Cape regional growth partner for the Code Club (and CoderDojo) in a programme sponsored by the Raspberry Pi Foundation. We are helping to train teachers, find volunteers and provide hardware for electronics projects.&lt;/p&gt;
+
+&lt;p&gt;Our 2023/2024 goal is 150 new coding clubs across the 1700+ Western Cape schools, with at least 60% from quintile 1-3 schools.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://codeclub.org/&quot;&gt;codeclub.org&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://projects.raspberrypi.org/en/paths&quot;&gt;Project Pathways&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://projects.raspberrypi.org/en/codeclub&quot;&gt;codeclub projects&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;If you want to start a club at your school, or volunteer, or donate, or anything ewlse you can imaghine to help, please connect with our Western Cape Clubs Growth programme manager Anelisa on this &lt;a href=&quot;https://chat.whatsapp.com/CyJGjMcAXpG4dpIJuxOZnU&quot;&gt;CoderDojo &amp;amp; codeclub info group&lt;/a&gt; on WhatsApp.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Audience&lt;/td&gt;
+      &lt;td&gt;9-13 year olds&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Global status&lt;/td&gt;
+      &lt;td&gt;180 000 people learning to code each week in 13,000 clubs around the world&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Local status&lt;/td&gt;
+      &lt;td&gt;80 clubs registered organically over the years, programme of growth in 2023, WC (led by Coder:LevelUp) and KZN (led by Blue Roof)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Support from&lt;/td&gt;
+      &lt;td&gt;ORT Robotics, Raspberry Pi Foundation&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Key people&lt;/td&gt;
+      &lt;td&gt;Anelisa Masebe (WC Programme Manager), David Campey (founder), + teachers and mentors&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Campey</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="codeclub" />
+      
+
+      
+        <summary type="html">Code clubs are school-based extra-mural clubs for young people, practicing coding from first steps through projects in the project pathway. Code Club provides the resources and support to help teachers start successful coding clubs. Coder:LevelUp is the Western Cape regional growth partner for the Code Club (and CoderDojo) in a programme sponsored by the Raspberry Pi Foundation. We are helping to train teachers, find volunteers and provide hardware for electronics projects. Our 2023/2024 goal is 150 new coding clubs across the 1700+ Western Cape schools, with at least 60% from quintile 1-3 schools.</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>
