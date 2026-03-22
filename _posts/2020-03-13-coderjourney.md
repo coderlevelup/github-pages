@@ -10,6 +10,8 @@ class: post-template
 subclass: 'post tag-getting-started'
 author: m4sterbunny
 excerpt_separator: <!--more-->
+homepage: true
+order: 4
 ---
 
 # A coder's journey

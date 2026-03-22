@@ -7,9 +7,11 @@ title: Code Club Resources
 date: 2024-07-17 14:30:00
 tags: [codeclub]
 class: post-template
-subclass: 'post tag-getting-started'
+subclass: 'post tag-codeclub'
 author: campey
 excerpt_separator: <!--more-->
+homepage: true
+order: 2
 ---
 
 Resources to support your club.

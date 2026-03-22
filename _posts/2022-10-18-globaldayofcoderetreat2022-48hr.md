@@ -7,9 +7,11 @@ title: 48 Hour Truly Global Day of CodeRetreat 2022
 date: 2022-11-07 09:30:00:00
 tags: [coderetreat]
 class: post-template
-subclass: 'post tag-getting-started'
+subclass: 'post tag-coderetreat'
 author: campey
 excerpt_separator: <!--more-->
+homepage: true
+order: 9
 ---
 
 Developers from around the world gathered online for the 48 hours of the "day" of CodeRetreat in our virtual space-station.

@@ -5,11 +5,13 @@ cover: assets/images/Coolest_Projects_2020_Logo_South_Africa.png
 navigation: True
 title: Coolest Projects South Africa 2025
 date: 2025-09-15 11:00:00
-tags: [Coolest Projects]
+tags: [coolestprojects]
 class: post-template
-subclass: 'post tag-getting-started'
+subclass: 'post tag-coolestprojects'
 author: campey
 excerpt_separator: <!--more-->
+homepage: true
+order: 3
 ---
 
 Coolest Projects is the world's leading technology fair for young people. This year for the sixth time in Africa!

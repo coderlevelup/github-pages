@@ -8,64 +8,84 @@ class: page-template
 subclass: 'post page'
 ---
 
-### Super Powers
-Coding is a super-power. 
+CoderLevelUp has been growing the coding community in Africa since 2012. What started as coding clubs for young people has grown into a broad ecosystem - from beginner learners picking up their first Pico kit, to competitive robotics teams heading to world championships, to planetary science researchers inspiring the next generation of explorers, to professional developers sharpening their craft.
 
-Coder:LevelUp is helping fellow Africans learn this super-power.
-
-Coding is a super power. 
-
-Levelling up in coding allows people to thrive, bringing economic prosperity and innovation. 
-
-That's what we do at Coder:LevelUp - we level up coders in South Africa. 
-
-### How are we growing community?
-
-> “the loop of joy: having an idea, struggling and then… it works! 
+> "the loop of joy: having an idea, struggling and then… it works!
 > That's the engine of creative learning, once this gets going we can't stop the learning."
-> :David Campey 
+> - David Campey
 
-Coder:LevelUp helps grow coders and our coding community to be part of the change that sees 500 000 coders (digital makers) working in the Western Cape and beyond supporting the national goal of 1 million coders in South Africa. 
+We help grow coders and our coding community to be part of the change that sees 500,000 coders working in the Western Cape and beyond, supporting the national goal of 1 million coders in South Africa.
 
- * For children we have helped grow code clubs since 2012, run the coolest projects showcase, participate in the astro-pi challenge, growing school coding & robotics in partnership with the Raspberry Pi Foundation and in collaboration with schools, libraries and community centres. 
- * For pros through coderetreat deliberate practice days, devdev pro community of practice and the lean iterator in partnership with afrolabs, industry and the IITPSA. 
+---
 
-We've trained hundreds of teachers, helped start 100+ clubs, grown coolest projects SA to 200+ participants in 3 cities, run code retreats regionally, nationally and internationally, supported hundreds of startups with Li and it feels like we're just beginning. 
+### For Young Coders
 
-### Remove duplication
+**[Code Club](/tag/codeclub/):** Free volunteer-led coding clubs for young people aged 9–13, aligned to the DBE Coding & Robotics curriculum. CoderLevelUp has helped start over 400 clubs across the Western Cape and Eastern Cape. Part of a global network supported by the Raspberry Pi Foundation.
 
-> "#3: Remove duplication"
-> Kent Beck's Rules of Simple design 
+**[Coolest Projects](/tag/coolestprojects/):** The world's leading technology showcase for young people, run in South Africa since 2020. Now in its sixth year, with events in Cape Town, East London, and Durban. Any young person up to 18 can enter - from any coding background.
 
-As programmers we have learned to value removing duplication, to encourage re-use, avoid bugs and duplicated effort.
+**[Pico Pathway Kit](/tag/pico-pathway/):** Our hardware starter kit, available from PiShop.co.za for R199.90. Six projects, one kit, built around the Raspberry Pi Foundation's Introduction to Pico pathway. The bridge from screen coding to physical computing.
 
-Building a community, we are continually amazed at the power of connecting people doing similar things and unlocking value through collaboration.
+---
 
-Open-source, open community and open education initiatives like code club & coderetreat allow local efforts to collaborate in regional, national and global community of practice, sharing, learning and creating the world we want to live in.
+### Robotics
 
-> "so powerful is the light oof unity that it can illumine the whole earth"
-> Baháʼu'lláh
+**[FIRST / FTC](/tag/first/):** We support the FIRST robotics community in South Africa through IGNITE Robotics International. The First Tech Challenge is for teams aged 12–18, developing real skills in Java, CAD, 3D printing, and robotics engineering - including 2024 World Champions Texpand from Cape Town.
 
+---
+
+### Science & Exploration
+
+**[SAPIENT](/tag/sapient-rocks/):** The South African Planetary Institute for Exploring Nature with Technology. Co-founded with Dr. Matthew Huber (Planetary Science Institute / UKZN), SAPIENT uses planetary science to inspire learners and communities. Website: [sapient.rocks](https://sapient.rocks)
+
+**[Mars Yard](/tag/mars-yard/):** A simulated Martian landscape in Cape Town where learners run code on real rovers. The Cape Town Science Centre's Space Room exhibit is live, with four Mars Yards planned by 2026. UCT students (sponsored by impact.com) are building a cloud platform so any school can run rover code remotely.
+
+---
+
+### Ocean Robotics
+
+**[LoCO AUV](/tag/loco-auv/):** A community building a low-cost open-source autonomous underwater vehicle. Monthly build events at Ocean Hub and Menzi Lab, open to all. Learning pathway runs from Scratch to ROS. Communities build robots and robots build communities.
+
+---
+
+### For Professional Developers
+
+**[CodeRetreat](/tag/coderetreat/):** Day-long deliberate practice events for developers. Pair programming, new partners, no pressure to ship. Cape Town chapter since 2012, including the 48-hour Global Day of CodeRetreat.
+
+**[devdev](/tag/devdev/):** A working group under IITPSA developing professional developers in South Africa - making it easier to employ and be employed in the software profession.
+
+**[Lean Startup Coffee](/tag/lean-startup-coffee/):** A weekly agendaless, speakerless meetup for people working in startups. 4,900+ members, 536+ events since 2015. Every Wednesday morning, online.
+
+---
 
 ### History
- * 2012 First CoderDojo @ afrolabs
- * 2012 First Code Retreat @ afrolabs
- * 2015 First Lean(StartUp)Coffee @ truth
- * 2016 Lean iterator programs kick off at GSB, Orbis, Stadard Bank.
- * 2018 incorporation as LevelUp NPC allow us to better organise and collaborate with other orgs for our activities across kids, pros and startups.
- * 2019 CoderDojo Growth Partnership
- * 2020 IITPSA MOU to formalise the devdev working group.
- * 2020 First Coolest Projects South Africa
- * 2023 Raspberry Pi Foundation funded programme to grow Code Clubs in the Western Cape.
- * 2024 Growth into Eastern Cape with ECDoE
- * 2024 CoderDojo brand & code club brands merged into one global code club brand
- * 2024 code club pilots with City of Cape Town Libraries building on unplugged coding
- * ...2048 BHAG: Community of 500k coders in the Western Cape, 1M in South Africa
+
+- 2012 First CoderDojo @ Afrolabs
+- 2012 First CodeRetreat @ Afrolabs
+- 2015 First Lean Startup Coffee @ Grind for Truth
+- 2018 Incorporated as LevelUp NPC (2018/401659/08)
+- 2019 CoderDojo Growth Partnership with Raspberry Pi Foundation
+- 2020 IITPSA MOU - devdev working group formalised
+- 2020 First Coolest Projects South Africa
+- 2023 Raspberry Pi Foundation funded programme to grow Code Clubs in the Western Cape
+- 2024 World Champion: Texpand (FTC) from Cape Town
+- 2024 Growth into Eastern Cape with ECDoE
+- 2024 CoderDojo and Code Club brands merged globally
+- 2025 SAPIENT.rocks Mars Yard at Cape Town Science Centre launched
+- 2025 LoCO AUV build community active at Ocean Hub
+- ...2048 BHAG: Community of 500k coders in the Western Cape, 1M in South Africa
+
+---
 
 ### Incorporation
-LevelUp NPC, 2018/401659/08 incorporated in July 2018.
 
-Directors: Roger Norton, Natalie Milne & David Campey.
+LevelUp NPC, 2018/401659/08, incorporated in July 2018.
+Section 18A PBO: 930067991
+
+Directors: Roger Norton, Camilla Swart & David Campey.
+
+Support us: [BackaBuddy](https://www.backabuddy.co.za/charity/profile/levelup) · [Benevity](https://benevity.com)
 
 ### Contact
-info@coderlevelup.org
+
+[info@coderlevelup.org](mailto:info@coderlevelup.org)

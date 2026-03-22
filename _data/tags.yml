@@ -1,4 +1,59 @@
-getting-started:
-  name: getting-started
-  description: False
-  cover: False
+codeclub:
+  name: codeclub
+  description: "Free volunteer-led coding clubs for young people, aligned to the DBE Coding & Robotics curriculum. CoderLevelUp supports Code Club across the Western Cape."
+  cover: assets/images/covers/codeclub.jpg
+
+coolestprojects:
+  name: coolestprojects
+  description: "The world's leading technology showcase for young people, run in South Africa since 2020. CoderLevelUp organises the annual edition, now in its sixth year."
+  cover: assets/images/covers/coolestprojects.jpg
+
+pico-pathway:
+  name: pico-pathway
+  description: "The CoderLevelUp Pico Pathway Kit — an affordable hardware starter kit available from PiShop, built around the Raspberry Pi Foundation's Introduction to Pico pathway. Six projects, one kit, R199.90."
+  cover: assets/images/covers/pico-pathway.jpg
+
+first:
+  name: first
+  description: "FIRST (For Inspiration and Recognition of Science and Technology) runs world-class youth robotics programmes from Lego FLL through to the First Tech Challenge. CoderLevelUp supports the FIRST community in South Africa."
+  cover: assets/images/covers/first.jpg
+
+ftc:
+  name: ftc
+  description: "The First Tech Challenge is a FIRST robotics competition for ages 12–18. CoderLevelUp supports FTC teams in the Western Cape — including 2024 World Champions Texpand — through IGNITE Robotics International."
+  cover: assets/images/covers/ftc.jpg
+
+sapient-rocks:
+  name: sapient-rocks
+  description: "The South African Planetary Institute for Exploring Nature with Technology — a CoderLevelUp initiative bringing planetary science and robotics together to inspire learners and communities."
+  cover: assets/images/covers/sapient-rocks.jpg
+
+mars-yard:
+  name: mars-yard
+  description: "The SAPIENT.rocks Mars Yard is a simulated Martian landscape in Cape Town where learners run code on real rovers. Backed by Gazebo simulation for distributed access, and connected to public science talks at the Iziko Planetarium."
+  cover: assets/images/covers/mars-yard.jpg
+
+loco-auv:
+  name: loco-auv
+  description: "A Cape Town community building the LoCO AUV — a low-cost open-source autonomous underwater vehicle. Monthly build events, Gazebo simulation, and a learning pathway from Scratch to ROS. Communities build robots and robots build communities."
+  cover: assets/images/covers/loco-auv.jpg
+
+coderetreat:
+  name: coderetreat
+  description: "Day-long deliberate practice events for developers — pair programming, new partners, no pressure to ship. CoderLevelUp has hosted coderetreats in Cape Town since 2012, including the global 48-hour event."
+  cover: assets/images/covers/coderetreat.jpg
+
+devdev:
+  name: devdev
+  description: "A working group under IITPSA developing professional developers in South Africa — making it easier to employ and be employed in the software profession."
+  cover: assets/images/covers/devdev.jpg
+
+lean-startup-coffee:
+  name: lean-startup-coffee
+  description: "A weekly agendaless, speakerless meetup for people working in startups — 536+ events since 2015, now online via WorkAdventure every Wednesday morning."
+  cover: assets/images/covers/lean-startup-coffee.jpg
+
+robotics:
+  name: robotics
+  description: "CoderLevelUp supports robotics programmes across South Africa — from competitive FTC teams to underwater vehicles and Mars rovers."
+  cover: assets/images/covers/robotics.jpg

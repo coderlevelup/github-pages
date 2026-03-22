@@ -1,4 +1,11 @@
-{% for post in paginator.posts %}
+{% if page.current == 'home' %}
+  {% assign display_posts = site.posts | where: 'homepage', true | sort: 'order' %}
+{% elsif page.current == 'blog' %}
+  {% assign display_posts = site.posts %}
+{% else %}
+  {% assign display_posts = paginator.posts %}
+{% endif %}
+{% for post in display_posts %}
     <article class="post-card {{ page.class }}{% unless post.cover %} no-image{% endunless %}">
         {% if post.cover %}
             <a class="post-card-image-link" href="{{ site.baseurl }}{{ post.url | remove_first: '/' }}">
