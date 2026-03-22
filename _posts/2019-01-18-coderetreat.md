@@ -21,4 +21,4 @@ Day-long event pair programming with new people sharing practices and perfect pr
 |Audience | programmers with experience (typically adults, open to all ages, youngest was 12) |
 |Local history | Started 2012, ~20 retreats on Saturdays once a quarter and during office hours. | 
 |Supporting companies | afrolabs, krs, impact radius |
-|Key people | David Campey, Nigel Basel, Werner van Rensburg |
+|Key people | :David Campey, Nigel Basel, Werner van Rensburg |

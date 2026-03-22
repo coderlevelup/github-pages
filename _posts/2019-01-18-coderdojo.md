@@ -24,4 +24,4 @@ Coder:LevelUp is the regional growth partner for the CoderDojo Foundation.
 | Audience | 7-17 year olds |
 | Local history | Started in SA in 2012, weekly classes ever since, 20 dojos in SA today |
 | Support from | afrolabs, ORT Robotics, CoderDojo Foundation, Rotary,  |
-| Key people | David Campey, Whitney Tennant, + more mentors |
+| Key people | :David Campey, Whitney Tennant, + more mentors |

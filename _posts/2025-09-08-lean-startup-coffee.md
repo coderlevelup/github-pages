@@ -49,4 +49,4 @@ It's free, it's online, and it's Wednesday morning.
 
 **Join us**: [meetup.com/lean-startup-coffee](https://www.meetup.com/lean-startup-coffee/)
 
-Lean Startup Coffee is organised by David Campey and sponsored by [CoderLevelUp](https://coderlevelup.org) via [Afrolabs](https://afrolabs.net).
+Lean Startup Coffee is organised by :David Campey and sponsored by [CoderLevelUp](https://coderlevelup.org) via [Afrolabs](https://afrolabs.net).

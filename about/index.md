@@ -12,7 +12,7 @@ CoderLevelUp has been growing the coding community in Africa since 2012. What st
 
 > "the loop of joy: having an idea, struggling and then… it works!
 > That's the engine of creative learning, once this gets going we can't stop the learning."
-> - David Campey
+> - :David Campey
 
 We help grow coders and our coding community to be part of the change that sees 500,000 coders working in the Western Cape and beyond, supporting the national goal of 1 million coders in South Africa.
 
@@ -82,7 +82,7 @@ We help grow coders and our coding community to be part of the change that sees 
 LevelUp NPC, 2018/401659/08, incorporated in July 2018.
 Section 18A PBO: 930067991
 
-Directors: Roger Norton, Camilla Swart & David Campey.
+Directors: Roger Norton, Camilla Swart & :David Campey.
 
 Support us: [BackaBuddy](https://www.backabuddy.co.za/charity/profile/levelup) · [Benevity](https://benevity.com)
 
