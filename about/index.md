@@ -8,6 +8,18 @@ class: page-template
 subclass: 'post page'
 ---
 
+## Why Coder:LevelUp?
+Coding is a super-power. 
+Coder:LevelUp is helping fellow Africans learn to use this super-power. 
+This will increase the earnings potential, ability to innovate and ultimate success of individuals and society.
+
+# How we do it?
+Find and run scalable programs for the growth and development of coders (and potential coders) throughout their lifetime from before “Hello, world!” to retired guru, from age seven to a hundred and seventy.
+
+We try out (or develop) patterns for creative learning environments in small groups then see if and how these scale in the South African context. 
+
+# What we do?
+
 CoderLevelUp has been growing the coding community in Africa since 2012. What started as coding clubs for young people has grown into a broad ecosystem - from beginner learners picking up their first Pico kit, to competitive robotics teams heading to world championships, to planetary science researchers inspiring the next generation of explorers, to professional developers sharpening their craft.
 
 > "the loop of joy: having an idea, struggling and then… it works!
@@ -38,7 +50,7 @@ We help grow coders and our coding community to be part of the change that sees 
 
 **[SAPIENT](/tag/sapient-rocks/):** The South African Planetary Institute for Exploring Nature with Technology. Co-founded with Dr. Matthew Huber (Planetary Science Institute / UKZN), SAPIENT uses planetary science to inspire learners and communities. Website: [sapient.rocks](https://sapient.rocks)
 
-**[Mars Yard](/tag/mars-yard/):** A simulated Martian landscape in Cape Town where learners run code on real rovers. The Cape Town Science Centre's Space Room exhibit is live, with four Mars Yards planned by 2026. UCT students (sponsored by impact.com) are building a cloud platform so any school can run rover code remotely.
+**[Mars Yard](/tag/mars-yard/):** A simulated Martian landscape in Cape Town where learners run code on real rovers. The original Mars Yard Lab is generously hosted by Parklands College; the Cape Town Science Centre's Space Room exhibit is also live. UCT students (sponsored by impact.com) are building a cloud platform so any school can run rover code remotely.
 
 ---
 
@@ -83,6 +95,7 @@ LevelUp NPC, 2018/401659/08, incorporated in July 2018.
 Section 18A PBO: 930067991
 
 Directors: Roger Norton, Camilla Swart & :David Campey.
+Previous Directors: Georgia Goedhals, Natalie Milne.
 
 Support us: [BackaBuddy](https://www.backabuddy.co.za/charity/profile/levelup) · [Benevity](https://benevity.com)
 
