@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
+  <link href="/tag/devdev/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="/" rel="alternate" type="text/html" />
+  <updated>2026-03-28T08:31:58+00:00</updated>
+  <id>/tag/devdev/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">CoderLevelUp | </title>
+  
+
+  
+    <subtitle>Levelling up our coding community, in Africa.</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">devdev: Developing Professional Developers</title>
+      <link href="/devdev/" rel="alternate" type="text/html" title="devdev: Developing Professional Developers" />
+      <published>2021-04-20T10:10:10+00:00</published>
+      <updated>2021-04-20T10:10:10+00:00</updated>
+      <id>/devdev</id>
+      <content type="html" xml:base="/devdev/">&lt;h1 id=&quot;devdev&quot;&gt;devdev&lt;/h1&gt;
+
+&lt;p&gt;&lt;strong&gt;dev&lt;/strong&gt;eloping professional &lt;strong&gt;dev&lt;/strong&gt;elopers. A CoderLevelUp initiative in partnership with IITPSA - the professional body for IT professionals in South Africa, with over 60 years of history and global affiliation through IP3.&lt;/p&gt;
+
+&lt;p&gt;The core idea is simple: make it easier to &lt;strong&gt;employ and be employed&lt;/strong&gt; as a software developer in South Africa.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;h2 id=&quot;why-this-matters&quot;&gt;Why This Matters&lt;/h2&gt;
+
+&lt;p&gt;South Africa has a genuine critical skills shortage in software development. At the same time, there are thousands of self-taught developers, bootcamp graduates, online learners, and career-switchers who can’t easily prove what they know or get the professional recognition they’ve earned.&lt;/p&gt;
+
+&lt;p&gt;devdev is trying to fix that - by working with IITPSA to make their professional framework relevant, accessible, and genuinely useful to coders at every stage.&lt;/p&gt;
+
+&lt;h2 id=&quot;whats-real-right-now&quot;&gt;What’s Real Right Now&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;The IITPSA partnership&lt;/strong&gt; is live. We operate under an open MOU. The IITPSA Certified Member tier now exists - a concrete rung on the ladder.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The working group&lt;/strong&gt; is active. Kelvin Nhlapo and :David Campey have been discussing what a modern, inclusive professional framework for SA developers actually looks like.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The SFIA framework&lt;/strong&gt; is our foundation - 102 skills, vendor-neutral, globally recognised. It gives us a common language for describing what developers do and at what level.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The membership ladder&lt;/strong&gt; we’re working toward:&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Tier&lt;/th&gt;
+      &lt;th&gt;Description&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Student&lt;/td&gt;
+      &lt;td&gt;Learning, not yet in the profession&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Affiliate&lt;/td&gt;
+      &lt;td&gt;Entering the profession&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Associate&lt;/td&gt;
+      &lt;td&gt;Working developer, growing&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Member&lt;/td&gt;
+      &lt;td&gt;Established practitioner&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Certified&lt;/td&gt;
+      &lt;td&gt;SFIA Level 3 - proven professional&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Professional&lt;/td&gt;
+      &lt;td&gt;SFIA Level 5 - senior practitioner&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;what-were-trying-to-build&quot;&gt;What We’re Trying to Build&lt;/h2&gt;
+
+&lt;p&gt;Three things:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;1. Easier employment pathways.&lt;/strong&gt; Clearer definitions of what “junior”, “mid”, and “senior” mean in practice. Helps hiring managers and helps developers advocate for themselves. Relevant to critical skills visa pathways too.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2. Recognition of diverse learning.&lt;/strong&gt; Whether you learned via freeCodeCamp, edX cs50, AWS training, Google Digital Skills, or sheer persistence - that should count. devdev is working to make that recognition real.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;3. CPD that actually matters.&lt;/strong&gt; Continuing Professional Development points for things developers already do - attending conferences, mentoring, community involvement. Critically: &lt;strong&gt;mentoring counts as first-class CPD too!&lt;/strong&gt;. That’s how we scale the profession - getting experienced developers to invest back into the community.&lt;/p&gt;
+
+&lt;h2 id=&quot;whats-not-yet-real&quot;&gt;What’s Not Yet Real&lt;/h2&gt;
+
+&lt;p&gt;We want to be honest. devdev has genuine potential but hasn’t yet materialised as a fully delivered programme. The webinar series is planned but not yet running. The DevConf collaboration is in discussion. The full CPD framework is in progress.&lt;/p&gt;
+
+&lt;p&gt;This is a community initiative. It moves at the pace of the people involved, and we have limited bandwidth alongside everything else CoderLevelUp is doing.&lt;/p&gt;
+
+&lt;h2 id=&quot;come-help-us-make-it-real&quot;&gt;Come Help Us Make It Real&lt;/h2&gt;
+
+&lt;p&gt;If you’re a developer who cares about this - a professional who wants a framework that recognises how real developers grow - we need you in the conversation.&lt;/p&gt;
+
+&lt;p&gt;Get in touch: &lt;a href=&quot;mailto:info@coderlevelup.org&quot;&gt;info@coderlevelup.org&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Useful links:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://iitpsa.org.za&quot;&gt;IITPSA&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://sfia-online.org&quot;&gt;SFIA Framework&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/tag/coderetreat/&quot;&gt;CodeRetreat&lt;/a&gt; - the community practice complement to devdev&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Campey</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="devdev" />
+      
+
+      
+        <summary type="html">devdev developing professional developers. A CoderLevelUp initiative in partnership with IITPSA - the professional body for IT professionals in South Africa, with over 60 years of history and global affiliation through IP3. The core idea is simple: make it easier to employ and be employed as a software developer in South Africa.</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>

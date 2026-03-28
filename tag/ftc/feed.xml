@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
+  <link href="/tag/ftc/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="/" rel="alternate" type="text/html" />
+  <updated>2026-03-28T08:31:58+00:00</updated>
+  <id>/tag/ftc/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">CoderLevelUp | </title>
+  
+
+  
+    <subtitle>Levelling up our coding community, in Africa.</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">Volunteers Needed at Coding &amp;amp; Robotics Clubs</title>
+      <link href="/volunteers-needed/" rel="alternate" type="text/html" title="Volunteers Needed at Coding &amp; Robotics Clubs" />
+      <published>2026-03-22T09:00:00+00:00</published>
+      <updated>2026-03-22T09:00:00+00:00</updated>
+      <id>/volunteers-needed</id>
+      <content type="html" xml:base="/volunteers-needed/">&lt;p&gt;Helping young people develop new skills and explore their creativity is very rewarding. Also, it’s a lot of fun!&lt;/p&gt;
+
+&lt;p&gt;CoderLevelUp supports free coding clubs and competitive robotics programmes across South Africa — and all of them rely on volunteers.&lt;/p&gt;
+
+&lt;h1 id=&quot;we-need-your-help&quot;&gt;We need your help!&lt;/h1&gt;
+
+&lt;p&gt;You could become a mentor and help young people learn to code. To help beginners, you don’t even need technical skills — enthusiasm and a willingness to learn alongside the kids goes a long way.&lt;/p&gt;
+
+&lt;p&gt;You could also help with setting up the space, recording attendance, running social media, or supporting a club’s operations behind the scenes. There’s a role for everyone.&lt;/p&gt;
+
+&lt;p&gt;Fill in the &lt;a href=&quot;https://forms.gle/q9p7D1rM3CT7Upsj8&quot;&gt;CoderLevelUp Volunteer form&lt;/a&gt; or mail &lt;a href=&quot;mailto:volunteer@coderlevelup.org&quot;&gt;volunteer@coderlevelup.org&lt;/a&gt;.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;code-club&quot;&gt;Code Club&lt;/h2&gt;
+
+&lt;p&gt;Code Club is a free, volunteer-led coding club for young people aged 9-13. Clubs meet weekly at schools, libraries, and community centres across the Western Cape and Eastern Cape.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What volunteers do:&lt;/strong&gt; Guide learners through Raspberry Pi Foundation projects in Scratch, Python, and HTML. No advanced coding knowledge needed for beginners — the projects are designed to be accessible.&lt;/p&gt;
+
+&lt;p&gt;We now have 1,000+ clubs running across South Africa, with 400+ in the Western Cape and Eastern Cape. Read more in our &lt;a href=&quot;/codeclub-2026/&quot;&gt;Code Club 2026 update&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;If you’re curious whether there’s already a club near you:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://codeclub.org/en/clubs?clubs_search%5Bcountry%5D=ZA&amp;amp;clubs_search%5Bq%5D=cape+town&amp;amp;commit=Find+a+Code+Club&quot;&gt;Find a Code Club&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Ready to volunteer with Code Club?&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://codeclub.org/en/volunteer&quot;&gt;Volunteer with Code Club&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;30-min safeguarding module (required): &lt;a href=&quot;https://projects.raspberrypi.org/en/projects/safeguarding-module/&quot;&gt;Safeguarding e-learning&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Mentoring guide: &lt;a href=&quot;https://projects.raspberrypi.org/en/projects/dojo-mentoring/&quot;&gt;Dojo Mentoring&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;first-tech-challenge-ftc&quot;&gt;FIRST Tech Challenge (FTC)&lt;/h2&gt;
+
+&lt;p&gt;FTC is a competitive robotics programme for young people aged 12-18. Teams design, build, programme, and operate robots to compete — including at the World Championship in Houston. Two Western Cape teams, Texpand and Autonova, are heading to Worlds in 2026.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What volunteers do:&lt;/strong&gt; Mentor a team (engineering, coding, strategy), or serve at events as a judge, referee, or field volunteer. FTC events only happen because of volunteers.&lt;/p&gt;
+
+&lt;p&gt;You don’t need to be a robotics expert — teams benefit enormously from mentors who bring project management, communication, documentation, or general engineering skills.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Ready to volunteer with FTC?&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.firstinspires.org/community/volunteers&quot;&gt;Volunteer with FIRST&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/first-tech-challenge/&quot;&gt;Read more about FTC&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;get-involved&quot;&gt;Get Involved&lt;/h2&gt;
+
+&lt;p&gt;Whether it’s Code Club, FTC, or something else at CoderLevelUp, we’d love to hear from you.&lt;/p&gt;
+
+&lt;p&gt;Fill in the &lt;a href=&quot;https://forms.gle/q9p7D1rM3CT7Upsj8&quot;&gt;CoderLevelUp Volunteer form&lt;/a&gt; or mail &lt;a href=&quot;mailto:volunteer@coderlevelup.org&quot;&gt;volunteer@coderlevelup.org&lt;/a&gt;.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Campey</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="codeclub" />
+      
+        <category term="ftc" />
+      
+        <category term="robotics" />
+      
+
+      
+        <summary type="html">Helping young people develop new skills and explore their creativity is very rewarding. Also, it’s a lot of fun! CoderLevelUp supports free coding clubs and competitive robotics programmes across South Africa — and all of them rely on volunteers. We need your help! You could become a mentor and help young people learn to code. To help beginners, you don’t even need technical skills — enthusiasm and a willingness to learn alongside the kids goes a long way. You could also help with setting up the space, recording attendance, running social media, or supporting a club’s operations behind the scenes. There’s a role for everyone. Fill in the CoderLevelUp Volunteer form or mail volunteer@coderlevelup.org.</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">First Tech Challenge: World-Class Robotics, and How You Can Help</title>
+      <link href="/ftc/" rel="alternate" type="text/html" title="First Tech Challenge: World-Class Robotics, and How You Can Help" />
+      <published>2025-09-12T10:00:00+00:00</published>
+      <updated>2025-09-12T10:00:00+00:00</updated>
+      <id>/ftc</id>
+      <content type="html" xml:base="/ftc/">&lt;p&gt;FIRST — For Inspiration and Recognition of Science and Technology — runs a family of robotics programmes that take young people from beginner Lego builds all the way to world-class engineering. The programme ladder:&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Programme&lt;/th&gt;
+      &lt;th&gt;Ages&lt;/th&gt;
+      &lt;th&gt;Focus&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;FLL Discover&lt;/td&gt;
+      &lt;td&gt;4–6&lt;/td&gt;
+      &lt;td&gt;Introduction to engineering and coding&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;FLL Explore&lt;/td&gt;
+      &lt;td&gt;6–10&lt;/td&gt;
+      &lt;td&gt;Team-based Lego engineering&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;FLL Challenge&lt;/td&gt;
+      &lt;td&gt;9–16&lt;/td&gt;
+      &lt;td&gt;Lego robotics competitions&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;FTC&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;strong&gt;12–18&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;strong&gt;Robot design, build, programme, compete&lt;/strong&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;FRC&lt;/td&gt;
+      &lt;td&gt;14–18&lt;/td&gt;
+      &lt;td&gt;Full-scale robot engineering with industry mentors&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;The &lt;strong&gt;First Tech Challenge&lt;/strong&gt; is where CoderLevelUp focuses. Teams of high schoolers design, build, programme, and operate robots to compete in alliance-format matches — judged not just on performance but on outreach, engineering documentation, and gracious professionalism.&lt;/p&gt;
+
+&lt;p&gt;South African teams qualify for the FTC World Championship each year — one of the largest youth engineering events on earth, drawing 85,000+ attendees from 58 countries.&lt;/p&gt;
+
+&lt;h2 id=&quot;texpand-2024-world-champions&quot;&gt;Texpand: 2024 World Champions&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Texpand&lt;/strong&gt; (Team 26786) won the FTC World Championship in Houston in 2024. A Cape Town team at the top of the world.&lt;/p&gt;
+
+&lt;p&gt;Their victory was more than a trophy. It unlocked R670,000 in additional funding and directly catalysed the formation of 17 new South African FTC teams. One championship win, seventeen new teams. That’s the multiplier effect.&lt;/p&gt;
+
+&lt;p&gt;Romania, a country with 220 FTC teams, is considered world-class. South Africa is at an equivalent inflection point.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-human-stories&quot;&gt;The Human Stories&lt;/h2&gt;
+
+&lt;p&gt;The numbers matter - 60+ active SA FTC teams, 3,000 students per year - but the individual stories matter more:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Heiko&lt;/strong&gt; started out with the Creepy Crawlies team. He went on to complete a PhD at MIT, and delivered the keynote at the SA FTC Nationals in 2026.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Cassidy&lt;/strong&gt; joined NexGen in Delft with no FTC background. She discovered a passion for coding, and the FTC network opened a door to the UWC Future-Innovation Software Dev Lab - leading to multiple job offers.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Jesse&lt;/strong&gt; from Christel House in Ottery - a no-fee school on the Cape Flats - did FTC work that caught the attention of a corporate supporter. That led to an internship. Now he mentors two teams.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Nguzo Sabers&lt;/strong&gt; from Khayelitsha connected with nearby SlovoMotion, qualified for Nationals, and proved the model works in the most constrained circumstances.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-skills&quot;&gt;The Skills&lt;/h2&gt;
+
+&lt;p&gt;FTC teams develop real, deep, applicable skills:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Java&lt;/strong&gt; programming for autonomous and teleop robot control&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;CAD&lt;/strong&gt; and mechanical design&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;3D printing&lt;/strong&gt; and metal fabrication&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Sensor integration&lt;/strong&gt; and image processing&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Project management&lt;/strong&gt;, documentation, public speaking&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Outreach&lt;/strong&gt; - teams are required to inspire others, not just compete&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This is the only programme in South Africa that develops these skills in high schoolers at this level of rigour.&lt;/p&gt;
+
+&lt;h2 id=&quot;ftc-awards&quot;&gt;FTC Awards&lt;/h2&gt;
+
+&lt;p&gt;FTC competitions have both performance and non-performance awards:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;REACH&lt;/strong&gt; - community outreach impact&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;CONNECT&lt;/strong&gt; - engaging STEM professionals&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;SUSTAIN&lt;/strong&gt; - growing the ecosystem&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Technical awards&lt;/strong&gt;: Think, Control, Design, Innovate, Inspire&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The most prestigious award - Inspire - goes to the team that exemplifies everything FIRST stands for.&lt;/p&gt;
+
+&lt;h2 id=&quot;how-to-help&quot;&gt;How to Help&lt;/h2&gt;
+
+&lt;p&gt;FTC events only happen because of volunteers. CoderLevelUp’s role in the FIRST ecosystem is partly about growing that volunteer base - mentors, judges, referees, field reset volunteers.&lt;/p&gt;
+
+&lt;p&gt;If you’re an engineer, developer, educator, or enthusiast and want to give back, this is one of the most effective ways to do it.&lt;/p&gt;
+
+&lt;p&gt;To get involved, head to our &lt;a href=&quot;/volunteers-needed/&quot;&gt;Volunteers Needed&lt;/a&gt; page. In South Africa, &lt;strong&gt;IGNITE Robotics International&lt;/strong&gt; and &lt;strong&gt;Sakhikamva&lt;/strong&gt; are the organisations supporting the growth of FTC teams — reach out to them directly to mentor, judge, or sponsor.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;More:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.firstinspires.org/robotics/ftc&quot;&gt;firstinspires.org/robotics/ftc&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ftc-events.firstinspires.org&quot;&gt;ftc-events.firstinspires.org&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Campey</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="ftc" />
+      
+        <category term="first" />
+      
+        <category term="robotics" />
+      
+
+      
+        <summary type="html">FIRST — For Inspiration and Recognition of Science and Technology — runs a family of robotics programmes that take young people from beginner Lego builds all the way to world-class engineering. The programme ladder:</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>

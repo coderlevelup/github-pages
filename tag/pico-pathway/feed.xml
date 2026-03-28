@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
+  <link href="/tag/pico-pathway/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="/" rel="alternate" type="text/html" />
+  <updated>2026-03-28T08:31:58+00:00</updated>
+  <id>/tag/pico-pathway/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">CoderLevelUp | </title>
+  
+
+  
+    <subtitle>Levelling up our coding community, in Africa.</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">Introducing the Pico Pathway Kit: Physical Computing for R199.90</title>
+      <link href="/pico-pathway/" rel="alternate" type="text/html" title="Introducing the Pico Pathway Kit: Physical Computing for R199.90" />
+      <published>2025-09-14T10:00:00+00:00</published>
+      <updated>2025-09-14T10:00:00+00:00</updated>
+      <id>/pico-pathway</id>
+      <content type="html" xml:base="/pico-pathway/">&lt;p&gt;We’re excited to introduce the &lt;strong&gt;CLU PicoH Kit&lt;/strong&gt; - a hardware starter kit curated by CoderLevelUp, available from &lt;a href=&quot;https://www.pishop.co.za/store/raspberry-pi-pico-pathway-kit&quot;&gt;PiShop.co.za&lt;/a&gt; for &lt;strong&gt;R199.90&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;It’s designed to work alongside the official &lt;a href=&quot;https://projects.raspberrypi.org/en/pathways/pico-intro&quot;&gt;Raspberry Pi Foundation Introduction to Pico pathway&lt;/a&gt; - six projects, one affordable kit, and a bridge from screen-based coding into physical computing.&lt;/p&gt;
+
+&lt;h2 id=&quot;whats-in-the-kit&quot;&gt;What’s in the Kit&lt;/h2&gt;
+
+&lt;p&gt;Everything you need to complete all six projects:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;1× Raspberry Pi Pico H (with pre-soldered headers - no soldering required)&lt;/li&gt;
+  &lt;li&gt;1× USB cable (USB A to micro B)&lt;/li&gt;
+  &lt;li&gt;10× 5mm LEDs (mixed colours)&lt;/li&gt;
+  &lt;li&gt;5× RGB Diffused LEDs&lt;/li&gt;
+  &lt;li&gt;10× 100 Ohm resistors&lt;/li&gt;
+  &lt;li&gt;1× Piezo transducer (passive buzzer)&lt;/li&gt;
+  &lt;li&gt;2× Potentiometers (10K)&lt;/li&gt;
+  &lt;li&gt;5× Tactile push buttons&lt;/li&gt;
+  &lt;li&gt;20× Male-to-female jumper wires&lt;/li&gt;
+  &lt;li&gt;20× Female-to-female jumper wires&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;No breadboard required for the first projects. Components are chosen to match each Raspberry Pi Foundation project exactly.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-six-projects&quot;&gt;The Six Projects&lt;/h2&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;#&lt;/th&gt;
+      &lt;th&gt;Project&lt;/th&gt;
+      &lt;th&gt;What You Make&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;1&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://projects.raspberrypi.org/en/projects/led-firefly&quot;&gt;LED Firefly&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;Flash an LED in a pattern, add a switch to control it&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;2&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://projects.raspberrypi.org/en/projects/party-popper&quot;&gt;Party Popper&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;Light and sound display triggered by a pull&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;3&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://projects.raspberrypi.org/en/projects/beating-heart&quot;&gt;Beating Heart&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;Papercraft heart with a pulsing LED and a dial&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;4&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://projects.raspberrypi.org/en/projects/mood-indicator&quot;&gt;Mood Indicator&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;A colour-coded mood check-in device&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;5&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://projects.raspberrypi.org/en/projects/sound-machine&quot;&gt;Sound Machine&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;Sound effects via buttons and a potentiometer&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;6&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://projects.raspberrypi.org/en/projects/sensory-gadget&quot;&gt;Sensory Gadget&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;A fidget toy / sensory gadget&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Each project builds on the last - from lighting one LED, all the way to a fully interactive gadget you’ve built yourself.&lt;/p&gt;
+
+&lt;h2 id=&quot;why-we-made-this&quot;&gt;Why We Made This&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://codeclub.org&quot;&gt;Code Club&lt;/a&gt; is free software coding for young people. But when learners are ready to move into physical computing - connecting code to real-world electronics - the step up can feel steep, and hardware in South Africa can be expensive or hard to source.&lt;/p&gt;
+
+&lt;p&gt;The Pico Pathway Kit is our answer. It’s:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Affordable&lt;/strong&gt;: R199.90 at PiShop - locally stocked, fast delivery&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Standalone&lt;/strong&gt;: everything you need in one kit, no extra shopping required&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Teacher-ready&lt;/strong&gt;: teachers in the Western Cape have already been trained on the pathway&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;part-of-a-bigger-journey&quot;&gt;Part of a Bigger Journey&lt;/h2&gt;
+
+&lt;p&gt;The Pico Pathway Kit sits in the middle of the CoderLevelUp learning ladder:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Scratch (block coding) → Python → Pico Pathway Kit → Robotics → ROS
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;From here, learners can progress to more advanced robotics projects including the &lt;a href=&quot;/tag/mars-yard/&quot;&gt;Mars Yard&lt;/a&gt; and &lt;a href=&quot;/tag/loco-auv/&quot;&gt;LoCO AUV&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;get-yours&quot;&gt;Get Yours&lt;/h2&gt;
+
+&lt;p&gt;The CLU PicoH Kit is available now at &lt;a href=&quot;https://www.pishop.co.za/store/raspberry-pi-pico-pathway-kit&quot;&gt;PiShop.co.za&lt;/a&gt; for &lt;strong&gt;R199.90&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Questions? &lt;a href=&quot;mailto:info@coderlevelup.org&quot;&gt;info@coderlevelup.org&lt;/a&gt;&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Campey</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="pico-pathway" />
+      
+        <category term="codeclub" />
+      
+
+      
+        <summary type="html">We’re excited to introduce the CLU PicoH Kit - a hardware starter kit curated by CoderLevelUp, available from PiShop.co.za for R199.90.</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>

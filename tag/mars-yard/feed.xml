@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
+  <link href="/tag/mars-yard/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="/" rel="alternate" type="text/html" />
+  <updated>2026-03-28T08:31:58+00:00</updated>
+  <id>/tag/mars-yard/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">CoderLevelUp | </title>
+  
+
+  
+    <subtitle>Levelling up our coding community, in Africa.</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">The Mars Yard: Running Code on a Simulated Martian Surface</title>
+      <link href="/mars-yard/" rel="alternate" type="text/html" title="The Mars Yard: Running Code on a Simulated Martian Surface" />
+      <published>2025-09-10T10:00:00+00:00</published>
+      <updated>2025-09-10T10:00:00+00:00</updated>
+      <id>/mars-yard</id>
+      <content type="html" xml:base="/mars-yard/">&lt;p&gt;The Mars Yard is live. Learners have run code on a real rover navigating a simulated Martian surface in Cape Town.&lt;/p&gt;
+
+&lt;p&gt;This is part of &lt;a href=&quot;/tag/sapient-rocks/&quot;&gt;SAPIENT.rocks&lt;/a&gt; - the South African Planetary Institute for Exploring Nature with Technology - a CoderLevelUp initiative co-founded with Dr. Matthew Huber of the Planetary Science Institute.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-is-the-mars-yard&quot;&gt;What Is the Mars Yard?&lt;/h2&gt;
+
+&lt;p&gt;A physical landscape built to simulate the terrain of Mars - rocky, reddish, navigable. A rover sits on it. Learners write code. The rover moves.&lt;/p&gt;
+
+&lt;p&gt;The flagship deployment is the &lt;strong&gt;Cape Town Science Centre’s Space Room&lt;/strong&gt; exhibit, built in partnership with &lt;a href=&quot;https://ctsc.org.za&quot;&gt;CTSC&lt;/a&gt;. It launched at CTSC’s 25th birthday celebration in October 2025 and is now open to the public.&lt;/p&gt;
+
+&lt;blockquote class=&quot;instagram-media&quot; data-instgrm-permalink=&quot;https://www.instagram.com/reel/DWKDEl6iKGY/&quot; data-instgrm-version=&quot;14&quot; style=&quot;background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);&quot;&gt;
+&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//www.instagram.com/embed.js&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;You don’t need to be at the Science Centre to try it, either. A desktop simulator lets learners run rover code locally before it executes on real hardware.&lt;/p&gt;
+
+&lt;h2 id=&quot;write-code-get-back-video&quot;&gt;Write Code, Get Back Video&lt;/h2&gt;
+
+&lt;p&gt;CoderLevelUp and UCT (through a final year Information Systems project sponsored by impact.com) are building the SAPIENT.rocks Mars Yard Cloud Platform - a “telescope time” model where learners submit code, the system queues it to run on the real rover, and the results come back as video and images.&lt;/p&gt;
+
+&lt;p&gt;Any school, anywhere in South Africa, could send a rover on a mission without leaving their classroom.&lt;/p&gt;
+
+&lt;h2 id=&quot;want-more&quot;&gt;Want More?&lt;/h2&gt;
+
+&lt;p&gt;The full SAPIENT.rocks story - the science, the people, the roadmap - lives at &lt;a href=&quot;https://sapient.rocks&quot;&gt;sapient.rocks&lt;/a&gt;. That’s where depth lives; this is the teaser.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://sapient.rocks&quot;&gt;sapient.rocks&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ctsc.org.za&quot;&gt;Cape Town Science Centre&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/tag/sapient-rocks/&quot;&gt;SAPIENT.rocks on CoderLevelUp&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;mailto:info@coderlevelup.org&quot;&gt;info@coderlevelup.org&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Campey</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="mars-yard" />
+      
+        <category term="sapient-rocks" />
+      
+        <category term="robotics" />
+      
+
+      
+        <summary type="html">The Mars Yard is live. Learners have run code on a real rover navigating a simulated Martian surface in Cape Town.</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>

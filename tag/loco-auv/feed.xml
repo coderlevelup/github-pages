@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
+  <link href="/tag/loco-auv/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="/" rel="alternate" type="text/html" />
+  <updated>2026-03-28T08:31:58+00:00</updated>
+  <id>/tag/loco-auv/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">CoderLevelUp | </title>
+  
+
+  
+    <subtitle>Levelling up our coding community, in Africa.</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">LoCO AUV for Mzansi: Building an Underwater Robot, Together</title>
+      <link href="/loco-auv/" rel="alternate" type="text/html" title="LoCO AUV for Mzansi: Building an Underwater Robot, Together" />
+      <published>2025-09-09T10:00:00+00:00</published>
+      <updated>2025-09-09T10:00:00+00:00</updated>
+      <id>/loco-auv</id>
+      <content type="html" xml:base="/loco-auv/">&lt;blockquote&gt;
+  &lt;p&gt;“Communities build robots and robots build communities.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The LoCO AUV is an open-source autonomous underwater vehicle, originally designed at the University of Minnesota to be genuinely affordable and accessible. CoderLevelUp is building one in Cape Town - together, with the community.&lt;/p&gt;
+
+&lt;h2 id=&quot;why-an-underwater-robot&quot;&gt;Why an Underwater Robot?&lt;/h2&gt;
+
+&lt;p&gt;Cape Town is a coastal city. The ocean is part of who we are. Yet marine robotics - the technology of exploring and understanding the ocean - is almost entirely out of reach for most South Africans.&lt;/p&gt;
+
+&lt;p&gt;The LoCO AUV is a way to change that. By building it in the open, with community members from schools, universities, makerspaces, and industry, we’re developing real skills while telling a story about what’s possible.&lt;/p&gt;
+
+&lt;h2 id=&quot;whos-building-it&quot;&gt;Who’s Building It&lt;/h2&gt;
+
+&lt;p&gt;The community spans a wide range of people and institutions:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;:David Campey&lt;/strong&gt; - CoderLevelUp / Afrolabs (organiser)&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Moeketsi&lt;/strong&gt; - Engineer in Residence at Ocean Hub&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Benjamin&lt;/strong&gt; - Virtual World Engineer at Afrolabs (led the Gazebo simulation)&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Immanuel Nanyaro&lt;/strong&gt; - Research Assistant at UCT’s African Robotics Unit&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Dirk&lt;/strong&gt; (P2PU), &lt;strong&gt;Steve&lt;/strong&gt; (makerspace.co.za), &lt;strong&gt;Jordan&lt;/strong&gt;, &lt;strong&gt;David Sharpe&lt;/strong&gt;, &lt;strong&gt;Roger Arendse&lt;/strong&gt; - community makers&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Yusuf Vawda&lt;/strong&gt; - UCT engineering faculty innovation lab&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Tash&lt;/strong&gt; - connected to the Seathebiggerpicture NGO, bringing youth from disadvantaged communities into ocean exploration&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Alexis Grosskopf&lt;/strong&gt; - CEO, OceanHub.Africa&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The physical build happens through Ocean Hub and Menzi Lab. &lt;a href=&quot;https://www.instagram.com/reel/DI6J7MPI4qJ/&quot;&gt;Here’s a reel from the first build event at Menzi&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;where-we-are&quot;&gt;Where We Are&lt;/h2&gt;
+
+&lt;p&gt;Milestones reached:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;✅ &lt;strong&gt;Gazebo simulation&lt;/strong&gt; complete (Oct 2024) - you can see it and move it&lt;/li&gt;
+  &lt;li&gt;✅ &lt;strong&gt;Pressure vessel&lt;/strong&gt; waterproofed and tested successfully&lt;/li&gt;
+  &lt;li&gt;✅ &lt;strong&gt;Electronics integrated&lt;/strong&gt; - Raspberry Pi responding to ROS commands, Pixhawk controlling motors&lt;/li&gt;
+  &lt;li&gt;✅ &lt;strong&gt;Live camera feed&lt;/strong&gt; from RPi camera in place&lt;/li&gt;
+  &lt;li&gt;✅ &lt;strong&gt;Teleop tested&lt;/strong&gt; - keyboard and gamepad control working in sim and in real&lt;/li&gt;
+  &lt;li&gt;✅ &lt;strong&gt;Mini-LoCO&lt;/strong&gt; 3D-printed at 1/10 scale for community promotion&lt;/li&gt;
+  &lt;li&gt;🔄 Full motor drive integration in progress&lt;/li&gt;
+  &lt;li&gt;🎯 Target: LoCO shell goes underwater&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;the-learning-pathway&quot;&gt;The Learning Pathway&lt;/h2&gt;
+
+&lt;p&gt;LoCO AUV is part of a scaffolded learning path from beginner to advanced:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Level 1: Scratch - move a sprite underwater
+Level 2: Micro:bit - land robot in sim and real
+Level 3: Abstracted Python (turtle-style LoCO commands)
+Level N: Native ROS - Gazebo sim → real LoCO
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;The Gazebo simulation means you can participate from anywhere. You don’t need to be in Cape Town to run code.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-hackathon-connection&quot;&gt;The Hackathon Connection&lt;/h2&gt;
+
+&lt;p&gt;At the Ocean Hub Hackathon in October 2025, one of the challenges tasked teams with using LoCO sensor data to build a business case for coastal communities. A project proposing to use the LoCO AUV to monitor water conditions at offshore mussel aquaculture sites took second place - and will be prototyped. This is exactly the kind of outcome we hoped for: robotics meeting the real-world ocean economy in a way that could genuinely matter for coastal communities.&lt;/p&gt;
+
+&lt;h2 id=&quot;come-build-with-us&quot;&gt;Come Build With Us&lt;/h2&gt;
+
+&lt;p&gt;Monthly community build events are open to all. Everything you need - project docs, sim repo, build updates, and how to join - is at &lt;a href=&quot;https://bit.ly/loco-za&quot;&gt;bit.ly/loco-za&lt;/a&gt;.&lt;/p&gt;
+
+&lt;blockquote class=&quot;instagram-media&quot; data-instgrm-permalink=&quot;https://www.instagram.com/reel/DI6J7MPI4qJ/&quot; data-instgrm-version=&quot;14&quot; style=&quot;background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);&quot;&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote class=&quot;instagram-media&quot; data-instgrm-permalink=&quot;https://www.instagram.com/reel/DPLiRLTDH0R/&quot; data-instgrm-version=&quot;14&quot; style=&quot;background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);&quot;&gt;
+&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//www.instagram.com/embed.js&quot;&gt;&lt;/script&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Campey</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="loco-auv" />
+      
+        <category term="robotics" />
+      
+
+      
+        <summary type="html">“Communities build robots and robots build communities.”</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>

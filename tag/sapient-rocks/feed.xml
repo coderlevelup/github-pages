@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
+  <link href="/tag/sapient-rocks/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="/" rel="alternate" type="text/html" />
+  <updated>2026-03-28T08:31:58+00:00</updated>
+  <id>/tag/sapient-rocks/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">CoderLevelUp | </title>
+  
+
+  
+    <subtitle>Levelling up our coding community, in Africa.</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">Introducing SAPIENT.rocks: Where Planetary Science Meets Technology Education</title>
+      <link href="/sapient/" rel="alternate" type="text/html" title="Introducing SAPIENT.rocks: Where Planetary Science Meets Technology Education" />
+      <published>2025-09-11T10:00:00+00:00</published>
+      <updated>2025-09-11T10:00:00+00:00</updated>
+      <id>/sapient</id>
+      <content type="html" xml:base="/sapient/">&lt;p&gt;&lt;strong&gt;SAPIENT.rocks&lt;/strong&gt; - the South African Planetary Institute for Exploring Nature with Technology - is a collaborative initiative co-founded by :David Campey (CoderLevelUp / Afrolabs) and Dr. Matthew S. Huber (Planetary Science Institute / University of KwaZulu-Natal).&lt;/p&gt;
+
+&lt;p&gt;The idea: use the excitement of planetary science and space exploration to engage learners, educators, and the public in technology - and make that engagement concrete, hands-on, and inspiring.&lt;/p&gt;
+
+&lt;p&gt;Website: &lt;a href=&quot;https://sapient.rocks&quot;&gt;sapient.rocks&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;the-people&quot;&gt;The People&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;:David Campey&lt;/strong&gt; is a software developer, tech entrepreneur, and the founder of CoderLevelUp and Afrolabs. He’s been growing the coding community in Cape Town since 2012.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Dr. Matthew S. Huber&lt;/strong&gt; is a Research Scientist at the Planetary Science Institute (Tucson, AZ) and Senior Lecturer at UKZN. He’s an expert in impact craters and planetary geology, whose work has been featured in Newsweek, Washington Post, Fox News, EOS, and Live Science. He has run NASA workshops, organised European Astrobiology Institute conferences, and is based at UKZN Durban.&lt;/p&gt;
+
+&lt;p&gt;Together, they bring software education expertise and frontier planetary science into the same room - which turns out to be a compelling combination.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-sapientrocks-does&quot;&gt;What SAPIENT.rocks Does&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Mars Yard&lt;/strong&gt; - a simulated Martian landscape where learners run code on real rovers. Currently at Parklands College in Cape Town, with the Cape Town Science Centre’s “Space Room” hosting an exhibit (launching September 2025, in time for CTSC’s 25th birthday celebration in October 2025). Four Mars Yards are planned by 2026, including multi-museum and multi-school deployments.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Iziko Planetarium Lectures&lt;/strong&gt; - Dr. Huber convenes public science talks at the Iziko Planetarium and Digital Dome in Cape Town, on topics from meteorites to the Moon and Mars. These are entry points for public engagement before connecting audiences to hands-on activities.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;UCT Final Year Project&lt;/strong&gt; - Sponsored by impact.com and CoderLevelUp, a team of UCT Information Systems students are building the SAPIENT.rocks Mars Yard Cloud Platform. The concept: a “telescope time” model where learners submit code, the system schedules it to run on a real rover, and results come back as video and images. Any school, anywhere in South Africa, could do real robotics experimentation without being physically present.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;SANSA Partnership&lt;/strong&gt; - A developing partnership with the South African National Space Agency (SANSA), connecting SAPIENT.rocks’ learner outreach with SA’s lunar mission capacity-building and STEM programmes.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-vision&quot;&gt;The Vision&lt;/h2&gt;
+
+&lt;p&gt;Planetary science is one of the most compelling entry points for young people into STEM. When a learner sees a rover navigating Mars-like terrain - and realises they can write the code that makes it move - something clicks.&lt;/p&gt;
+
+&lt;p&gt;SAPIENT.rocks’ goal is to multiply that moment across South Africa. Not just in Cape Town, not just in well-resourced schools, but broadly - through simulation, through public engagement, and through genuine scientific connection to the frontier.&lt;/p&gt;
+
+&lt;h2 id=&quot;follow-along&quot;&gt;Follow Along&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://sapient.rocks&quot;&gt;sapient.rocks&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/tag/mars-yard/&quot;&gt;Mars Yard&lt;/a&gt; - the hands-on learning activity&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;mailto:info@coderlevelup.org&quot;&gt;info@coderlevelup.org&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Campey</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="sapient-rocks" />
+      
+
+      
+        <summary type="html">SAPIENT.rocks - the South African Planetary Institute for Exploring Nature with Technology - is a collaborative initiative co-founded by :David Campey (CoderLevelUp / Afrolabs) and Dr. Matthew S. Huber (Planetary Science Institute / University of KwaZulu-Natal).</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">The Mars Yard: Running Code on a Simulated Martian Surface</title>
+      <link href="/mars-yard/" rel="alternate" type="text/html" title="The Mars Yard: Running Code on a Simulated Martian Surface" />
+      <published>2025-09-10T10:00:00+00:00</published>
+      <updated>2025-09-10T10:00:00+00:00</updated>
+      <id>/mars-yard</id>
+      <content type="html" xml:base="/mars-yard/">&lt;p&gt;The Mars Yard is live. Learners have run code on a real rover navigating a simulated Martian surface in Cape Town.&lt;/p&gt;
+
+&lt;p&gt;This is part of &lt;a href=&quot;/tag/sapient-rocks/&quot;&gt;SAPIENT.rocks&lt;/a&gt; - the South African Planetary Institute for Exploring Nature with Technology - a CoderLevelUp initiative co-founded with Dr. Matthew Huber of the Planetary Science Institute.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-is-the-mars-yard&quot;&gt;What Is the Mars Yard?&lt;/h2&gt;
+
+&lt;p&gt;A physical landscape built to simulate the terrain of Mars - rocky, reddish, navigable. A rover sits on it. Learners write code. The rover moves.&lt;/p&gt;
+
+&lt;p&gt;The flagship deployment is the &lt;strong&gt;Cape Town Science Centre’s Space Room&lt;/strong&gt; exhibit, built in partnership with &lt;a href=&quot;https://ctsc.org.za&quot;&gt;CTSC&lt;/a&gt;. It launched at CTSC’s 25th birthday celebration in October 2025 and is now open to the public.&lt;/p&gt;
+
+&lt;blockquote class=&quot;instagram-media&quot; data-instgrm-permalink=&quot;https://www.instagram.com/reel/DWKDEl6iKGY/&quot; data-instgrm-version=&quot;14&quot; style=&quot;background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);&quot;&gt;
+&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//www.instagram.com/embed.js&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;You don’t need to be at the Science Centre to try it, either. A desktop simulator lets learners run rover code locally before it executes on real hardware.&lt;/p&gt;
+
+&lt;h2 id=&quot;write-code-get-back-video&quot;&gt;Write Code, Get Back Video&lt;/h2&gt;
+
+&lt;p&gt;CoderLevelUp and UCT (through a final year Information Systems project sponsored by impact.com) are building the SAPIENT.rocks Mars Yard Cloud Platform - a “telescope time” model where learners submit code, the system queues it to run on the real rover, and the results come back as video and images.&lt;/p&gt;
+
+&lt;p&gt;Any school, anywhere in South Africa, could send a rover on a mission without leaving their classroom.&lt;/p&gt;
+
+&lt;h2 id=&quot;want-more&quot;&gt;Want More?&lt;/h2&gt;
+
+&lt;p&gt;The full SAPIENT.rocks story - the science, the people, the roadmap - lives at &lt;a href=&quot;https://sapient.rocks&quot;&gt;sapient.rocks&lt;/a&gt;. That’s where depth lives; this is the teaser.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://sapient.rocks&quot;&gt;sapient.rocks&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ctsc.org.za&quot;&gt;Cape Town Science Centre&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/tag/sapient-rocks/&quot;&gt;SAPIENT.rocks on CoderLevelUp&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;mailto:info@coderlevelup.org&quot;&gt;info@coderlevelup.org&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Campey</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="mars-yard" />
+      
+        <category term="sapient-rocks" />
+      
+        <category term="robotics" />
+      
+
+      
+        <summary type="html">The Mars Yard is live. Learners have run code on a real rover navigating a simulated Martian surface in Cape Town.</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>

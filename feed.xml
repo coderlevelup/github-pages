@@ -1,0 +1,734 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2026-03-28T08:31:58+00:00</updated><id>/</id><title type="html">CoderLevelUp</title><subtitle>Levelling up our coding community, in Africa.</subtitle><entry><title type="html">Code Club 2026: Growing Coding Clubs Across South Africa</title><link href="/codeclub-2026/" rel="alternate" type="text/html" title="Code Club 2026: Growing Coding Clubs Across South Africa" /><published>2026-03-22T10:00:00+00:00</published><updated>2026-03-22T10:00:00+00:00</updated><id>/codeclub-2026</id><content type="html" xml:base="/codeclub-2026/">&lt;p&gt;Code Club is a global network of free, volunteer-led coding clubs for young people aged 9–13.&lt;/p&gt;
+
+&lt;p&gt;Together with regional partners KCA Digital Democracy and Siyafunda CTC, we’ve helped grow a community of 1,000+ clubs across the country. Now in the Western Cape, we’re delighted that code club is growing forwards with the Cape Town Science Centre and scaling in partnership with WCED, CoderLevelUp continues “raising the ceiling” for this network of clubs with R&amp;amp;D for new learning experiences and environments.&lt;/p&gt;
+
+&lt;p&gt;This work has been supported generously by the Raspberry Pi Foundation with an African focus on South Africa &amp;amp; Kenya.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-raspberry-pi-foundations-assessment&quot;&gt;The Raspberry Pi Foundation’s Assessment&lt;/h2&gt;
+
+&lt;p&gt;In August 2025, the Raspberry Pi Foundation &lt;a href=&quot;https://www.raspberrypi.org/blog/celebrating-impact-code-clubs-are-thriving-in-kenya-and-south-africa/&quot;&gt;published an impact report&lt;/a&gt; specifically celebrating Code Club’s growth in South Africa - co-delivered by CoderLevelUp and Keep a Child Alive.&lt;/p&gt;
+
+&lt;p&gt;The numbers:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Over 42,000 young people&lt;/strong&gt; reached through clubs&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;1,498 mentors trained&lt;/strong&gt; using a train-the-trainer model&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;89%&lt;/strong&gt; of surveyed mentors reported increased coding skills and technology confidence in their learners&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“Changes your perception and thinking… it’s possible to do things… it becomes a reality because it’s not difficult.”&lt;/p&gt;
+  &lt;ul&gt;
+    &lt;li&gt;South African Code Club mentor&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;That’s external validation of something we’ve felt from the ground: Code Club works, and it’s growing.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-happens-at-a-code-club&quot;&gt;What Happens at a Code Club&lt;/h2&gt;
+
+&lt;p&gt;Code Clubs meet weekly, usually at a school, library, or community centre. Young people work through the &lt;a href=&quot;https://projects.raspberrypi.org/en&quot;&gt;Raspberry Pi Foundation’s project pathways&lt;/a&gt; - coding in Scratch, Python, HTML, and MicroPython. Volunteer facilitators guide the sessions, which are free to attend.&lt;/p&gt;
+
+&lt;p&gt;The projects are designed to be genuinely engaging - from building a quiz machine to making animations to writing simple games. The progression is carefully scaffolded so learners build confidence step by step.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“If they don’t know something, we can teach it to them.”&lt;/p&gt;
+  &lt;ul&gt;
+    &lt;li&gt;South African Code Club participant&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;aligned-to-the-dbe-curriculum&quot;&gt;Aligned to the DBE Curriculum&lt;/h2&gt;
+
+&lt;p&gt;Code Club directly supports the Department of Basic Education’s Coding &amp;amp; Robotics curriculum, introduced from Grade R upwards. The Raspberry Pi Foundation’s project pathways cover the same concepts and skills, giving clubs a ready-made, high-quality curriculum that meets learners where they are.&lt;/p&gt;
+
+&lt;h2 id=&quot;growth-in-20232025&quot;&gt;Growth in 2023–2025&lt;/h2&gt;
+
+&lt;p&gt;The last two years have seen strong growth:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Western Cape&lt;/strong&gt;: continued growth with Anelisa Masebe coordinating clubs and teacher training&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Eastern Cape&lt;/strong&gt;: expansion in collaboration with the Eastern Cape Department of Education (ECDoE), including workshops at St John’s Umtata, Gqeberha and Matatiele&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;isiXhosa translation&lt;/strong&gt;: the first two Raspberry Pi Foundation projects now available in isiXhosa&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;SACE Accreditation&lt;/strong&gt;: registration completed for teacher CPD recognition through GetSACE&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Micro:bit devices&lt;/strong&gt;: approximately 900 Micro:bit devices donated by the Micro:bit Foundation incoming - enabling hands-on physical computing across clubs&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Raspberry Pi devices&lt;/strong&gt;: 100 RPi devices donated by Thinkst already in use&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;the-pico-pathway-kit&quot;&gt;The Pico Pathway Kit&lt;/h2&gt;
+
+&lt;p&gt;Alongside Code Club, CoderLevelUp has curated the &lt;a href=&quot;/tag/pico-pathway/&quot;&gt;Pico Pathway Kit&lt;/a&gt; - a hardware starter kit available from PiShop.co.za for R199.90. It’s the bridge from screen-based coding to physical computing, built around the official Raspberry Pi Foundation Pico pathway.&lt;/p&gt;
+
+&lt;h2 id=&quot;coolest-projects&quot;&gt;Coolest Projects&lt;/h2&gt;
+
+&lt;p&gt;Many Code Club learners go on to showcase their work at &lt;a href=&quot;/tag/coolestprojects/&quot;&gt;Coolest Projects&lt;/a&gt; - the world’s leading technology fair for young people. The South African edition has run since 2020 and is now in its sixth year.&lt;/p&gt;
+
+&lt;h2 id=&quot;get-involved&quot;&gt;Get Involved&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Start or join a club&lt;/strong&gt;: &lt;a href=&quot;https://codeclub.org&quot;&gt;codeclub.org&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Explore projects&lt;/strong&gt;: &lt;a href=&quot;https://projects.raspberrypi.org/en&quot;&gt;projects.raspberrypi.org&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Get the Pico Pathway Kit&lt;/strong&gt;: &lt;a href=&quot;https://www.pishop.co.za/store/raspberry-pi-pico-pathway-kit&quot;&gt;PiShop.co.za&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Western Cape&lt;/strong&gt; — Cape Town Science Centre: &lt;a href=&quot;mailto:stemclubs@ctsc.org.za&quot;&gt;stemclubs@ctsc.org.za&lt;/a&gt; · 021 300 3200 · &lt;a href=&quot;https://www.ctsc.org.za&quot;&gt;ctsc.org.za&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;KZN &amp;amp; beyond&lt;/strong&gt; — KCA Digital Democracy: &lt;a href=&quot;mailto:info@kcasa.org.za&quot;&gt;info@kcasa.org.za&lt;/a&gt; · 072 056 9873 · &lt;a href=&quot;https://www.keepachildalive.org&quot;&gt;keepachildalive.org&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Gauteng &amp;amp; national&lt;/strong&gt; — Siyafunda CTC: &lt;a href=&quot;mailto:info@siyafundactc.org.za&quot;&gt;info@siyafundactc.org.za&lt;/a&gt; · &lt;a href=&quot;https://www.siyafundactc.org.za&quot;&gt;siyafundactc.org.za&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Code Club is supported in South Africa by &lt;a href=&quot;https://coderlevelup.org&quot;&gt;CoderLevelUp&lt;/a&gt; in partnership with the &lt;a href=&quot;https://www.raspberrypi.org/&quot;&gt;Raspberry Pi Foundation&lt;/a&gt;.&lt;/p&gt;</content><author><name>Campey</name></author><category term="codeclub" /><summary type="html">Code Club is a global network of free, volunteer-led coding clubs for young people aged 9–13.</summary></entry><entry><title type="html">Volunteers Needed at Coding &amp;amp; Robotics Clubs</title><link href="/volunteers-needed/" rel="alternate" type="text/html" title="Volunteers Needed at Coding &amp; Robotics Clubs" /><published>2026-03-22T09:00:00+00:00</published><updated>2026-03-22T09:00:00+00:00</updated><id>/volunteers-needed</id><content type="html" xml:base="/volunteers-needed/">&lt;p&gt;Helping young people develop new skills and explore their creativity is very rewarding. Also, it’s a lot of fun!&lt;/p&gt;
+
+&lt;p&gt;CoderLevelUp supports free coding clubs and competitive robotics programmes across South Africa — and all of them rely on volunteers.&lt;/p&gt;
+
+&lt;h1 id=&quot;we-need-your-help&quot;&gt;We need your help!&lt;/h1&gt;
+
+&lt;p&gt;You could become a mentor and help young people learn to code. To help beginners, you don’t even need technical skills — enthusiasm and a willingness to learn alongside the kids goes a long way.&lt;/p&gt;
+
+&lt;p&gt;You could also help with setting up the space, recording attendance, running social media, or supporting a club’s operations behind the scenes. There’s a role for everyone.&lt;/p&gt;
+
+&lt;p&gt;Fill in the &lt;a href=&quot;https://forms.gle/q9p7D1rM3CT7Upsj8&quot;&gt;CoderLevelUp Volunteer form&lt;/a&gt; or mail &lt;a href=&quot;mailto:volunteer@coderlevelup.org&quot;&gt;volunteer@coderlevelup.org&lt;/a&gt;.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;code-club&quot;&gt;Code Club&lt;/h2&gt;
+
+&lt;p&gt;Code Club is a free, volunteer-led coding club for young people aged 9-13. Clubs meet weekly at schools, libraries, and community centres across the Western Cape and Eastern Cape.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What volunteers do:&lt;/strong&gt; Guide learners through Raspberry Pi Foundation projects in Scratch, Python, and HTML. No advanced coding knowledge needed for beginners — the projects are designed to be accessible.&lt;/p&gt;
+
+&lt;p&gt;We now have 1,000+ clubs running across South Africa, with 400+ in the Western Cape and Eastern Cape. Read more in our &lt;a href=&quot;/codeclub-2026/&quot;&gt;Code Club 2026 update&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;If you’re curious whether there’s already a club near you:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://codeclub.org/en/clubs?clubs_search%5Bcountry%5D=ZA&amp;amp;clubs_search%5Bq%5D=cape+town&amp;amp;commit=Find+a+Code+Club&quot;&gt;Find a Code Club&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Ready to volunteer with Code Club?&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://codeclub.org/en/volunteer&quot;&gt;Volunteer with Code Club&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;30-min safeguarding module (required): &lt;a href=&quot;https://projects.raspberrypi.org/en/projects/safeguarding-module/&quot;&gt;Safeguarding e-learning&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Mentoring guide: &lt;a href=&quot;https://projects.raspberrypi.org/en/projects/dojo-mentoring/&quot;&gt;Dojo Mentoring&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;first-tech-challenge-ftc&quot;&gt;FIRST Tech Challenge (FTC)&lt;/h2&gt;
+
+&lt;p&gt;FTC is a competitive robotics programme for young people aged 12-18. Teams design, build, programme, and operate robots to compete — including at the World Championship in Houston. Two Western Cape teams, Texpand and Autonova, are heading to Worlds in 2026.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What volunteers do:&lt;/strong&gt; Mentor a team (engineering, coding, strategy), or serve at events as a judge, referee, or field volunteer. FTC events only happen because of volunteers.&lt;/p&gt;
+
+&lt;p&gt;You don’t need to be a robotics expert — teams benefit enormously from mentors who bring project management, communication, documentation, or general engineering skills.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Ready to volunteer with FTC?&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.firstinspires.org/community/volunteers&quot;&gt;Volunteer with FIRST&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/first-tech-challenge/&quot;&gt;Read more about FTC&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;get-involved&quot;&gt;Get Involved&lt;/h2&gt;
+
+&lt;p&gt;Whether it’s Code Club, FTC, or something else at CoderLevelUp, we’d love to hear from you.&lt;/p&gt;
+
+&lt;p&gt;Fill in the &lt;a href=&quot;https://forms.gle/q9p7D1rM3CT7Upsj8&quot;&gt;CoderLevelUp Volunteer form&lt;/a&gt; or mail &lt;a href=&quot;mailto:volunteer@coderlevelup.org&quot;&gt;volunteer@coderlevelup.org&lt;/a&gt;.&lt;/p&gt;</content><author><name>Campey</name></author><category term="codeclub" /><category term="ftc" /><category term="robotics" /><summary type="html">Helping young people develop new skills and explore their creativity is very rewarding. Also, it’s a lot of fun! CoderLevelUp supports free coding clubs and competitive robotics programmes across South Africa — and all of them rely on volunteers. We need your help! You could become a mentor and help young people learn to code. To help beginners, you don’t even need technical skills — enthusiasm and a willingness to learn alongside the kids goes a long way. You could also help with setting up the space, recording attendance, running social media, or supporting a club’s operations behind the scenes. There’s a role for everyone. Fill in the CoderLevelUp Volunteer form or mail volunteer@coderlevelup.org.</summary></entry><entry><title type="html">Coolest Projects South Africa 2025</title><link href="/coolestprojects2025/" rel="alternate" type="text/html" title="Coolest Projects South Africa 2025" /><published>2025-09-15T11:00:00+00:00</published><updated>2025-09-15T11:00:00+00:00</updated><id>/coolestprojects2025</id><content type="html" xml:base="/coolestprojects2025/">&lt;p&gt;Coolest Projects is the world’s leading technology fair for young people. This year for the sixth time in Africa!&lt;/p&gt;
+
+&lt;h1 id=&quot;what&quot;&gt;What?&lt;/h1&gt;
+
+&lt;p&gt;It’s a showcase, like a science fair, for young people to show all the cool things they’ve been making.&lt;/p&gt;
+
+&lt;p&gt;For a better idea, here’s some videos from 2024.&lt;/p&gt;
+
+&lt;p&gt;Coolest Projects in Cape Town: 
+&lt;a href=&quot;https://www.youtube.com/watch?v=-u8qAqq2yvI&quot;&gt;&lt;img src=&quot;assets/images/coolestprojects-youtube-2024.png&quot; alt=&quot;video of Coolest Projects Cape Town from 2024&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Coolest Projects in East London: 
+&lt;a href=&quot;https://www.youtube.com/watch?v=-m9smNosxnY&quot;&gt;&lt;img src=&quot;assets/images/coolestprojects-youtube-2024-EL.png&quot; alt=&quot;video of Coolest Projects East London from 2024&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;when&quot;&gt;When?&lt;/h1&gt;
+
+&lt;h2 id=&quot;saturday-the-15th-of-november-2025&quot;&gt;Saturday the 15th of November 2025&lt;/h2&gt;
+
+&lt;p&gt;Save the date!&lt;/p&gt;
+
+&lt;h1 id=&quot;where&quot;&gt;Where?&lt;/h1&gt;
+
+&lt;p&gt;Cape Town, East London, Durban (maybe more, TBC)&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;h2 id=&quot;western-cape-cape-town&quot;&gt;Western Cape: Cape Town&lt;/h2&gt;
+
+&lt;p&gt;New Faculty of Education Building at the university of the Western Cape.&lt;/p&gt;
+
+&lt;p&gt;Maps and directions:&lt;/p&gt;
+&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3310.225765320111!2d18.6294541!3d-33.935320999999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1dcc5162ea54a869%3A0x193af72751c7a9e3!2sFaculty%20of%20Education!5e0!3m2!1sen!2sza!4v1730995566686!5m2!1sen!2sza&quot; width=&quot;600&quot; height=&quot;450&quot; style=&quot;border:0;&quot; allowfullscreen=&quot;&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer-when-downgrade&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href=&quot;https://maps.app.goo.gl/4kyTgtHgk7bzbKKb7&quot;&gt;New Faculty of Education Building, UWC&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;kzn-durban&quot;&gt;KZN: Durban&lt;/h2&gt;
+
+&lt;p&gt;Blue Roof in Durban.&lt;/p&gt;
+
+&lt;p&gt;Maps and directions:&lt;/p&gt;
+&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3457.396829089573!2d30.9837!3d-29.939262299999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1ef7ac02e9202971%3A0xda1f39c7fb36f658!2sThe%20Blue%20Roof%20Life%20Space!5e0!3m2!1sen!2sza!4v1730995753413!5m2!1sen!2sza&quot; width=&quot;600&quot; height=&quot;450&quot; style=&quot;border:0;&quot; allowfullscreen=&quot;&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer-when-downgrade&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href=&quot;https://maps.app.goo.gl/FkTmnHq23H3cUMxLA&quot;&gt;Blue Roof, the Bluff&lt;/a&gt;
+178 Austerville Drive, Wentworth, Durban&lt;/p&gt;
+
+&lt;h2 id=&quot;ec-east-london&quot;&gt;EC: East London:&lt;/h2&gt;
+
+&lt;p&gt;Mandle Makupula Education Leadership Institute in East London.&lt;/p&gt;
+
+&lt;p&gt;Maps and directions:&lt;/p&gt;
+&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3433.4220495285226!2d27.926852935335567!3d-32.99321769385759!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1e671e2b819c439d%3A0x14511516d72e3db1!2sEducation%20Leadership%20Institute!5e0!3m2!1sen!2sza!4v1730995868151!5m2!1sen!2sza&quot; width=&quot;600&quot; height=&quot;450&quot; style=&quot;border:0;&quot; allowfullscreen=&quot;&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer-when-downgrade&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href=&quot;https://maps.app.goo.gl/CjogSkSVUaP1s46d6&quot;&gt;MMELI&lt;/a&gt;
+Epsom Rd, Stirling, East London&lt;/p&gt;
+
+&lt;h1 id=&quot;how-do-i-enter&quot;&gt;How do I enter?&lt;/h1&gt;
+
+&lt;p&gt;Register here: 
+&lt;a href=&quot;https://forms.gle/Af5ckEKEvZN4nG9C9&quot;&gt;Coolest Projects 2025 South Africa Entry Form&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;who-can-enter-coolest-projects&quot;&gt;Who can enter Coolest Projects?&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;any young person up to the age of 18 (or still in school)&lt;/li&gt;
+  &lt;li&gt;from any coding background whether part of a Coder Dojo, Code Club, or school society, learnt with mom/dad/aunty/etc, self-taught&lt;/li&gt;
+  &lt;li&gt;living and learning in South Africa!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;why-enter&quot;&gt;Why enter?&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;Certificates: Everyone submitting a valid project will get a certificate&lt;/li&gt;
+  &lt;li&gt;Show-casing your talent: you’ll show off what SA talent can do!&lt;/li&gt;
+  &lt;li&gt;Swag: prizes and give-aways!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;what-sort-of-projects&quot;&gt;What sort of projects?&lt;/h1&gt;
+&lt;p&gt;Lots!&lt;/p&gt;
+
+&lt;p&gt;This isn’t supposed to be a totally new project (although it can be), it can be anything you might have created this year that you would like to share. Whether the work of an hour or a hundred hours, all projects are cool and welcome :)&lt;/p&gt;
+
+&lt;p&gt;Entries can be in one of the following categories:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;visual programming: projects made in scratch, blockly&lt;/li&gt;
+  &lt;li&gt;web: a page or site made in HTML, CSS and optionally javascript&lt;/li&gt;
+  &lt;li&gt;games: a game you coded on any platform&lt;/li&gt;
+  &lt;li&gt;hardware: projects involving robotics and/or electronics&lt;/li&gt;
+  &lt;li&gt;mobile apps: a mobile app project&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;how-do-i-take-part&quot;&gt;How do I take part?&lt;/h1&gt;
+
+&lt;p&gt;Register here: 
+&lt;a href=&quot;https://forms.gle/Af5ckEKEvZN4nG9C9&quot;&gt;Coolest Projects 2025 South Africa Entry Form&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;in-person&quot;&gt;In Person&lt;/h2&gt;
+&lt;p&gt;Simply bring yourself and your project to the event!&lt;/p&gt;
+
+&lt;p&gt;The in-person event will be held in Cape Town, Durban and East London on the morning of Saturday 15 November 2025.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;10:00 Project exhibitors arrive and set up at their desks&lt;/li&gt;
+  &lt;li&gt;11:00 Open to public / friends / judging starts&lt;/li&gt;
+  &lt;li&gt;13:00 Ceremony, judges awards&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The event is open to the public to come and see the coolest projects!&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Closing date for registration: Please try register to let us know you’re coming ASAP, ideally before 1 Nov, but we will accept late registrations unless the venues are full.&lt;/li&gt;
+  &lt;li&gt;Event date: 15 November 2025&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;about-coolest-projects&quot;&gt;About Coolest Projects&lt;/h1&gt;
+
+&lt;p&gt;Coolest Projects is an initiative of the &lt;a href=&quot;https://www.raspberrypi.org/&quot;&gt;Raspberry Pi Foundation&lt;/a&gt; brought to South Africa by Coder:LevelUp, a South African non-profit focused on growing coding &amp;amp; coders in South Africa and Africa.&lt;/p&gt;
+
+&lt;p&gt;We’re looking forward to announcing more sponsors soon, please get in touch if you’d like to sponsor!&lt;/p&gt;
+
+&lt;h2 id=&quot;contact-details&quot;&gt;Contact details&lt;/h2&gt;
+&lt;p&gt;For most things, mail to coolestprojects@coderlevelup.org
+or for urgent contact, whatsapp/phone Anelisa 079 115 0597&lt;/p&gt;</content><author><name>Campey</name></author><category term="coolestprojects" /><summary type="html">Coolest Projects is the world’s leading technology fair for young people. This year for the sixth time in Africa! What? It’s a showcase, like a science fair, for young people to show all the cool things they’ve been making. For a better idea, here’s some videos from 2024. Coolest Projects in Cape Town: Coolest Projects in East London: When? Saturday the 15th of November 2025 Save the date! Where? Cape Town, East London, Durban (maybe more, TBC)</summary></entry><entry><title type="html">Introducing the Pico Pathway Kit: Physical Computing for R199.90</title><link href="/pico-pathway/" rel="alternate" type="text/html" title="Introducing the Pico Pathway Kit: Physical Computing for R199.90" /><published>2025-09-14T10:00:00+00:00</published><updated>2025-09-14T10:00:00+00:00</updated><id>/pico-pathway</id><content type="html" xml:base="/pico-pathway/">&lt;p&gt;We’re excited to introduce the &lt;strong&gt;CLU PicoH Kit&lt;/strong&gt; - a hardware starter kit curated by CoderLevelUp, available from &lt;a href=&quot;https://www.pishop.co.za/store/raspberry-pi-pico-pathway-kit&quot;&gt;PiShop.co.za&lt;/a&gt; for &lt;strong&gt;R199.90&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;It’s designed to work alongside the official &lt;a href=&quot;https://projects.raspberrypi.org/en/pathways/pico-intro&quot;&gt;Raspberry Pi Foundation Introduction to Pico pathway&lt;/a&gt; - six projects, one affordable kit, and a bridge from screen-based coding into physical computing.&lt;/p&gt;
+
+&lt;h2 id=&quot;whats-in-the-kit&quot;&gt;What’s in the Kit&lt;/h2&gt;
+
+&lt;p&gt;Everything you need to complete all six projects:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;1× Raspberry Pi Pico H (with pre-soldered headers - no soldering required)&lt;/li&gt;
+  &lt;li&gt;1× USB cable (USB A to micro B)&lt;/li&gt;
+  &lt;li&gt;10× 5mm LEDs (mixed colours)&lt;/li&gt;
+  &lt;li&gt;5× RGB Diffused LEDs&lt;/li&gt;
+  &lt;li&gt;10× 100 Ohm resistors&lt;/li&gt;
+  &lt;li&gt;1× Piezo transducer (passive buzzer)&lt;/li&gt;
+  &lt;li&gt;2× Potentiometers (10K)&lt;/li&gt;
+  &lt;li&gt;5× Tactile push buttons&lt;/li&gt;
+  &lt;li&gt;20× Male-to-female jumper wires&lt;/li&gt;
+  &lt;li&gt;20× Female-to-female jumper wires&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;No breadboard required for the first projects. Components are chosen to match each Raspberry Pi Foundation project exactly.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-six-projects&quot;&gt;The Six Projects&lt;/h2&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;#&lt;/th&gt;
+      &lt;th&gt;Project&lt;/th&gt;
+      &lt;th&gt;What You Make&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;1&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://projects.raspberrypi.org/en/projects/led-firefly&quot;&gt;LED Firefly&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;Flash an LED in a pattern, add a switch to control it&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;2&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://projects.raspberrypi.org/en/projects/party-popper&quot;&gt;Party Popper&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;Light and sound display triggered by a pull&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;3&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://projects.raspberrypi.org/en/projects/beating-heart&quot;&gt;Beating Heart&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;Papercraft heart with a pulsing LED and a dial&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;4&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://projects.raspberrypi.org/en/projects/mood-indicator&quot;&gt;Mood Indicator&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;A colour-coded mood check-in device&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;5&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://projects.raspberrypi.org/en/projects/sound-machine&quot;&gt;Sound Machine&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;Sound effects via buttons and a potentiometer&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;6&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://projects.raspberrypi.org/en/projects/sensory-gadget&quot;&gt;Sensory Gadget&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;A fidget toy / sensory gadget&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Each project builds on the last - from lighting one LED, all the way to a fully interactive gadget you’ve built yourself.&lt;/p&gt;
+
+&lt;h2 id=&quot;why-we-made-this&quot;&gt;Why We Made This&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://codeclub.org&quot;&gt;Code Club&lt;/a&gt; is free software coding for young people. But when learners are ready to move into physical computing - connecting code to real-world electronics - the step up can feel steep, and hardware in South Africa can be expensive or hard to source.&lt;/p&gt;
+
+&lt;p&gt;The Pico Pathway Kit is our answer. It’s:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Affordable&lt;/strong&gt;: R199.90 at PiShop - locally stocked, fast delivery&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Standalone&lt;/strong&gt;: everything you need in one kit, no extra shopping required&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Teacher-ready&lt;/strong&gt;: teachers in the Western Cape have already been trained on the pathway&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;part-of-a-bigger-journey&quot;&gt;Part of a Bigger Journey&lt;/h2&gt;
+
+&lt;p&gt;The Pico Pathway Kit sits in the middle of the CoderLevelUp learning ladder:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Scratch (block coding) → Python → Pico Pathway Kit → Robotics → ROS
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;From here, learners can progress to more advanced robotics projects including the &lt;a href=&quot;/tag/mars-yard/&quot;&gt;Mars Yard&lt;/a&gt; and &lt;a href=&quot;/tag/loco-auv/&quot;&gt;LoCO AUV&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;get-yours&quot;&gt;Get Yours&lt;/h2&gt;
+
+&lt;p&gt;The CLU PicoH Kit is available now at &lt;a href=&quot;https://www.pishop.co.za/store/raspberry-pi-pico-pathway-kit&quot;&gt;PiShop.co.za&lt;/a&gt; for &lt;strong&gt;R199.90&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Questions? &lt;a href=&quot;mailto:info@coderlevelup.org&quot;&gt;info@coderlevelup.org&lt;/a&gt;&lt;/p&gt;</content><author><name>Campey</name></author><category term="pico-pathway" /><category term="codeclub" /><summary type="html">We’re excited to introduce the CLU PicoH Kit - a hardware starter kit curated by CoderLevelUp, available from PiShop.co.za for R199.90.</summary></entry><entry><title type="html">First Tech Challenge: World-Class Robotics, and How You Can Help</title><link href="/ftc/" rel="alternate" type="text/html" title="First Tech Challenge: World-Class Robotics, and How You Can Help" /><published>2025-09-12T10:00:00+00:00</published><updated>2025-09-12T10:00:00+00:00</updated><id>/ftc</id><content type="html" xml:base="/ftc/">&lt;p&gt;FIRST — For Inspiration and Recognition of Science and Technology — runs a family of robotics programmes that take young people from beginner Lego builds all the way to world-class engineering. The programme ladder:&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Programme&lt;/th&gt;
+      &lt;th&gt;Ages&lt;/th&gt;
+      &lt;th&gt;Focus&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;FLL Discover&lt;/td&gt;
+      &lt;td&gt;4–6&lt;/td&gt;
+      &lt;td&gt;Introduction to engineering and coding&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;FLL Explore&lt;/td&gt;
+      &lt;td&gt;6–10&lt;/td&gt;
+      &lt;td&gt;Team-based Lego engineering&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;FLL Challenge&lt;/td&gt;
+      &lt;td&gt;9–16&lt;/td&gt;
+      &lt;td&gt;Lego robotics competitions&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;FTC&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;strong&gt;12–18&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;strong&gt;Robot design, build, programme, compete&lt;/strong&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;FRC&lt;/td&gt;
+      &lt;td&gt;14–18&lt;/td&gt;
+      &lt;td&gt;Full-scale robot engineering with industry mentors&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;The &lt;strong&gt;First Tech Challenge&lt;/strong&gt; is where CoderLevelUp focuses. Teams of high schoolers design, build, programme, and operate robots to compete in alliance-format matches — judged not just on performance but on outreach, engineering documentation, and gracious professionalism.&lt;/p&gt;
+
+&lt;p&gt;South African teams qualify for the FTC World Championship each year — one of the largest youth engineering events on earth, drawing 85,000+ attendees from 58 countries.&lt;/p&gt;
+
+&lt;h2 id=&quot;texpand-2024-world-champions&quot;&gt;Texpand: 2024 World Champions&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Texpand&lt;/strong&gt; (Team 26786) won the FTC World Championship in Houston in 2024. A Cape Town team at the top of the world.&lt;/p&gt;
+
+&lt;p&gt;Their victory was more than a trophy. It unlocked R670,000 in additional funding and directly catalysed the formation of 17 new South African FTC teams. One championship win, seventeen new teams. That’s the multiplier effect.&lt;/p&gt;
+
+&lt;p&gt;Romania, a country with 220 FTC teams, is considered world-class. South Africa is at an equivalent inflection point.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-human-stories&quot;&gt;The Human Stories&lt;/h2&gt;
+
+&lt;p&gt;The numbers matter - 60+ active SA FTC teams, 3,000 students per year - but the individual stories matter more:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Heiko&lt;/strong&gt; started out with the Creepy Crawlies team. He went on to complete a PhD at MIT, and delivered the keynote at the SA FTC Nationals in 2026.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Cassidy&lt;/strong&gt; joined NexGen in Delft with no FTC background. She discovered a passion for coding, and the FTC network opened a door to the UWC Future-Innovation Software Dev Lab - leading to multiple job offers.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Jesse&lt;/strong&gt; from Christel House in Ottery - a no-fee school on the Cape Flats - did FTC work that caught the attention of a corporate supporter. That led to an internship. Now he mentors two teams.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Nguzo Sabers&lt;/strong&gt; from Khayelitsha connected with nearby SlovoMotion, qualified for Nationals, and proved the model works in the most constrained circumstances.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-skills&quot;&gt;The Skills&lt;/h2&gt;
+
+&lt;p&gt;FTC teams develop real, deep, applicable skills:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Java&lt;/strong&gt; programming for autonomous and teleop robot control&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;CAD&lt;/strong&gt; and mechanical design&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;3D printing&lt;/strong&gt; and metal fabrication&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Sensor integration&lt;/strong&gt; and image processing&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Project management&lt;/strong&gt;, documentation, public speaking&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Outreach&lt;/strong&gt; - teams are required to inspire others, not just compete&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This is the only programme in South Africa that develops these skills in high schoolers at this level of rigour.&lt;/p&gt;
+
+&lt;h2 id=&quot;ftc-awards&quot;&gt;FTC Awards&lt;/h2&gt;
+
+&lt;p&gt;FTC competitions have both performance and non-performance awards:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;REACH&lt;/strong&gt; - community outreach impact&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;CONNECT&lt;/strong&gt; - engaging STEM professionals&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;SUSTAIN&lt;/strong&gt; - growing the ecosystem&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Technical awards&lt;/strong&gt;: Think, Control, Design, Innovate, Inspire&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The most prestigious award - Inspire - goes to the team that exemplifies everything FIRST stands for.&lt;/p&gt;
+
+&lt;h2 id=&quot;how-to-help&quot;&gt;How to Help&lt;/h2&gt;
+
+&lt;p&gt;FTC events only happen because of volunteers. CoderLevelUp’s role in the FIRST ecosystem is partly about growing that volunteer base - mentors, judges, referees, field reset volunteers.&lt;/p&gt;
+
+&lt;p&gt;If you’re an engineer, developer, educator, or enthusiast and want to give back, this is one of the most effective ways to do it.&lt;/p&gt;
+
+&lt;p&gt;To get involved, head to our &lt;a href=&quot;/volunteers-needed/&quot;&gt;Volunteers Needed&lt;/a&gt; page. In South Africa, &lt;strong&gt;IGNITE Robotics International&lt;/strong&gt; and &lt;strong&gt;Sakhikamva&lt;/strong&gt; are the organisations supporting the growth of FTC teams — reach out to them directly to mentor, judge, or sponsor.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;More:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.firstinspires.org/robotics/ftc&quot;&gt;firstinspires.org/robotics/ftc&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ftc-events.firstinspires.org&quot;&gt;ftc-events.firstinspires.org&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Campey</name></author><category term="ftc" /><category term="first" /><category term="robotics" /><summary type="html">FIRST — For Inspiration and Recognition of Science and Technology — runs a family of robotics programmes that take young people from beginner Lego builds all the way to world-class engineering. The programme ladder:</summary></entry><entry><title type="html">Introducing SAPIENT.rocks: Where Planetary Science Meets Technology Education</title><link href="/sapient/" rel="alternate" type="text/html" title="Introducing SAPIENT.rocks: Where Planetary Science Meets Technology Education" /><published>2025-09-11T10:00:00+00:00</published><updated>2025-09-11T10:00:00+00:00</updated><id>/sapient</id><content type="html" xml:base="/sapient/">&lt;p&gt;&lt;strong&gt;SAPIENT.rocks&lt;/strong&gt; - the South African Planetary Institute for Exploring Nature with Technology - is a collaborative initiative co-founded by :David Campey (CoderLevelUp / Afrolabs) and Dr. Matthew S. Huber (Planetary Science Institute / University of KwaZulu-Natal).&lt;/p&gt;
+
+&lt;p&gt;The idea: use the excitement of planetary science and space exploration to engage learners, educators, and the public in technology - and make that engagement concrete, hands-on, and inspiring.&lt;/p&gt;
+
+&lt;p&gt;Website: &lt;a href=&quot;https://sapient.rocks&quot;&gt;sapient.rocks&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;the-people&quot;&gt;The People&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;:David Campey&lt;/strong&gt; is a software developer, tech entrepreneur, and the founder of CoderLevelUp and Afrolabs. He’s been growing the coding community in Cape Town since 2012.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Dr. Matthew S. Huber&lt;/strong&gt; is a Research Scientist at the Planetary Science Institute (Tucson, AZ) and Senior Lecturer at UKZN. He’s an expert in impact craters and planetary geology, whose work has been featured in Newsweek, Washington Post, Fox News, EOS, and Live Science. He has run NASA workshops, organised European Astrobiology Institute conferences, and is based at UKZN Durban.&lt;/p&gt;
+
+&lt;p&gt;Together, they bring software education expertise and frontier planetary science into the same room - which turns out to be a compelling combination.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-sapientrocks-does&quot;&gt;What SAPIENT.rocks Does&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Mars Yard&lt;/strong&gt; - a simulated Martian landscape where learners run code on real rovers. Currently at Parklands College in Cape Town, with the Cape Town Science Centre’s “Space Room” hosting an exhibit (launching September 2025, in time for CTSC’s 25th birthday celebration in October 2025). Four Mars Yards are planned by 2026, including multi-museum and multi-school deployments.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Iziko Planetarium Lectures&lt;/strong&gt; - Dr. Huber convenes public science talks at the Iziko Planetarium and Digital Dome in Cape Town, on topics from meteorites to the Moon and Mars. These are entry points for public engagement before connecting audiences to hands-on activities.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;UCT Final Year Project&lt;/strong&gt; - Sponsored by impact.com and CoderLevelUp, a team of UCT Information Systems students are building the SAPIENT.rocks Mars Yard Cloud Platform. The concept: a “telescope time” model where learners submit code, the system schedules it to run on a real rover, and results come back as video and images. Any school, anywhere in South Africa, could do real robotics experimentation without being physically present.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;SANSA Partnership&lt;/strong&gt; - A developing partnership with the South African National Space Agency (SANSA), connecting SAPIENT.rocks’ learner outreach with SA’s lunar mission capacity-building and STEM programmes.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-vision&quot;&gt;The Vision&lt;/h2&gt;
+
+&lt;p&gt;Planetary science is one of the most compelling entry points for young people into STEM. When a learner sees a rover navigating Mars-like terrain - and realises they can write the code that makes it move - something clicks.&lt;/p&gt;
+
+&lt;p&gt;SAPIENT.rocks’ goal is to multiply that moment across South Africa. Not just in Cape Town, not just in well-resourced schools, but broadly - through simulation, through public engagement, and through genuine scientific connection to the frontier.&lt;/p&gt;
+
+&lt;h2 id=&quot;follow-along&quot;&gt;Follow Along&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://sapient.rocks&quot;&gt;sapient.rocks&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/tag/mars-yard/&quot;&gt;Mars Yard&lt;/a&gt; - the hands-on learning activity&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;mailto:info@coderlevelup.org&quot;&gt;info@coderlevelup.org&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Campey</name></author><category term="sapient-rocks" /><summary type="html">SAPIENT.rocks - the South African Planetary Institute for Exploring Nature with Technology - is a collaborative initiative co-founded by :David Campey (CoderLevelUp / Afrolabs) and Dr. Matthew S. Huber (Planetary Science Institute / University of KwaZulu-Natal).</summary></entry><entry><title type="html">The Mars Yard: Running Code on a Simulated Martian Surface</title><link href="/mars-yard/" rel="alternate" type="text/html" title="The Mars Yard: Running Code on a Simulated Martian Surface" /><published>2025-09-10T10:00:00+00:00</published><updated>2025-09-10T10:00:00+00:00</updated><id>/mars-yard</id><content type="html" xml:base="/mars-yard/">&lt;p&gt;The Mars Yard is live. Learners have run code on a real rover navigating a simulated Martian surface in Cape Town.&lt;/p&gt;
+
+&lt;p&gt;This is part of &lt;a href=&quot;/tag/sapient-rocks/&quot;&gt;SAPIENT.rocks&lt;/a&gt; - the South African Planetary Institute for Exploring Nature with Technology - a CoderLevelUp initiative co-founded with Dr. Matthew Huber of the Planetary Science Institute.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-is-the-mars-yard&quot;&gt;What Is the Mars Yard?&lt;/h2&gt;
+
+&lt;p&gt;A physical landscape built to simulate the terrain of Mars - rocky, reddish, navigable. A rover sits on it. Learners write code. The rover moves.&lt;/p&gt;
+
+&lt;p&gt;The flagship deployment is the &lt;strong&gt;Cape Town Science Centre’s Space Room&lt;/strong&gt; exhibit, built in partnership with &lt;a href=&quot;https://ctsc.org.za&quot;&gt;CTSC&lt;/a&gt;. It launched at CTSC’s 25th birthday celebration in October 2025 and is now open to the public.&lt;/p&gt;
+
+&lt;blockquote class=&quot;instagram-media&quot; data-instgrm-permalink=&quot;https://www.instagram.com/reel/DWKDEl6iKGY/&quot; data-instgrm-version=&quot;14&quot; style=&quot;background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);&quot;&gt;
+&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//www.instagram.com/embed.js&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;You don’t need to be at the Science Centre to try it, either. A desktop simulator lets learners run rover code locally before it executes on real hardware.&lt;/p&gt;
+
+&lt;h2 id=&quot;write-code-get-back-video&quot;&gt;Write Code, Get Back Video&lt;/h2&gt;
+
+&lt;p&gt;CoderLevelUp and UCT (through a final year Information Systems project sponsored by impact.com) are building the SAPIENT.rocks Mars Yard Cloud Platform - a “telescope time” model where learners submit code, the system queues it to run on the real rover, and the results come back as video and images.&lt;/p&gt;
+
+&lt;p&gt;Any school, anywhere in South Africa, could send a rover on a mission without leaving their classroom.&lt;/p&gt;
+
+&lt;h2 id=&quot;want-more&quot;&gt;Want More?&lt;/h2&gt;
+
+&lt;p&gt;The full SAPIENT.rocks story - the science, the people, the roadmap - lives at &lt;a href=&quot;https://sapient.rocks&quot;&gt;sapient.rocks&lt;/a&gt;. That’s where depth lives; this is the teaser.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://sapient.rocks&quot;&gt;sapient.rocks&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ctsc.org.za&quot;&gt;Cape Town Science Centre&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/tag/sapient-rocks/&quot;&gt;SAPIENT.rocks on CoderLevelUp&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;mailto:info@coderlevelup.org&quot;&gt;info@coderlevelup.org&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Campey</name></author><category term="mars-yard" /><category term="sapient-rocks" /><category term="robotics" /><summary type="html">The Mars Yard is live. Learners have run code on a real rover navigating a simulated Martian surface in Cape Town.</summary></entry><entry><title type="html">LoCO AUV for Mzansi: Building an Underwater Robot, Together</title><link href="/loco-auv/" rel="alternate" type="text/html" title="LoCO AUV for Mzansi: Building an Underwater Robot, Together" /><published>2025-09-09T10:00:00+00:00</published><updated>2025-09-09T10:00:00+00:00</updated><id>/loco-auv</id><content type="html" xml:base="/loco-auv/">&lt;blockquote&gt;
+  &lt;p&gt;“Communities build robots and robots build communities.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The LoCO AUV is an open-source autonomous underwater vehicle, originally designed at the University of Minnesota to be genuinely affordable and accessible. CoderLevelUp is building one in Cape Town - together, with the community.&lt;/p&gt;
+
+&lt;h2 id=&quot;why-an-underwater-robot&quot;&gt;Why an Underwater Robot?&lt;/h2&gt;
+
+&lt;p&gt;Cape Town is a coastal city. The ocean is part of who we are. Yet marine robotics - the technology of exploring and understanding the ocean - is almost entirely out of reach for most South Africans.&lt;/p&gt;
+
+&lt;p&gt;The LoCO AUV is a way to change that. By building it in the open, with community members from schools, universities, makerspaces, and industry, we’re developing real skills while telling a story about what’s possible.&lt;/p&gt;
+
+&lt;h2 id=&quot;whos-building-it&quot;&gt;Who’s Building It&lt;/h2&gt;
+
+&lt;p&gt;The community spans a wide range of people and institutions:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;:David Campey&lt;/strong&gt; - CoderLevelUp / Afrolabs (organiser)&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Moeketsi&lt;/strong&gt; - Engineer in Residence at Ocean Hub&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Benjamin&lt;/strong&gt; - Virtual World Engineer at Afrolabs (led the Gazebo simulation)&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Immanuel Nanyaro&lt;/strong&gt; - Research Assistant at UCT’s African Robotics Unit&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Dirk&lt;/strong&gt; (P2PU), &lt;strong&gt;Steve&lt;/strong&gt; (makerspace.co.za), &lt;strong&gt;Jordan&lt;/strong&gt;, &lt;strong&gt;David Sharpe&lt;/strong&gt;, &lt;strong&gt;Roger Arendse&lt;/strong&gt; - community makers&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Yusuf Vawda&lt;/strong&gt; - UCT engineering faculty innovation lab&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Tash&lt;/strong&gt; - connected to the Seathebiggerpicture NGO, bringing youth from disadvantaged communities into ocean exploration&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Alexis Grosskopf&lt;/strong&gt; - CEO, OceanHub.Africa&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The physical build happens through Ocean Hub and Menzi Lab. &lt;a href=&quot;https://www.instagram.com/reel/DI6J7MPI4qJ/&quot;&gt;Here’s a reel from the first build event at Menzi&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;where-we-are&quot;&gt;Where We Are&lt;/h2&gt;
+
+&lt;p&gt;Milestones reached:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;✅ &lt;strong&gt;Gazebo simulation&lt;/strong&gt; complete (Oct 2024) - you can see it and move it&lt;/li&gt;
+  &lt;li&gt;✅ &lt;strong&gt;Pressure vessel&lt;/strong&gt; waterproofed and tested successfully&lt;/li&gt;
+  &lt;li&gt;✅ &lt;strong&gt;Electronics integrated&lt;/strong&gt; - Raspberry Pi responding to ROS commands, Pixhawk controlling motors&lt;/li&gt;
+  &lt;li&gt;✅ &lt;strong&gt;Live camera feed&lt;/strong&gt; from RPi camera in place&lt;/li&gt;
+  &lt;li&gt;✅ &lt;strong&gt;Teleop tested&lt;/strong&gt; - keyboard and gamepad control working in sim and in real&lt;/li&gt;
+  &lt;li&gt;✅ &lt;strong&gt;Mini-LoCO&lt;/strong&gt; 3D-printed at 1/10 scale for community promotion&lt;/li&gt;
+  &lt;li&gt;🔄 Full motor drive integration in progress&lt;/li&gt;
+  &lt;li&gt;🎯 Target: LoCO shell goes underwater&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;the-learning-pathway&quot;&gt;The Learning Pathway&lt;/h2&gt;
+
+&lt;p&gt;LoCO AUV is part of a scaffolded learning path from beginner to advanced:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Level 1: Scratch - move a sprite underwater
+Level 2: Micro:bit - land robot in sim and real
+Level 3: Abstracted Python (turtle-style LoCO commands)
+Level N: Native ROS - Gazebo sim → real LoCO
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;The Gazebo simulation means you can participate from anywhere. You don’t need to be in Cape Town to run code.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-hackathon-connection&quot;&gt;The Hackathon Connection&lt;/h2&gt;
+
+&lt;p&gt;At the Ocean Hub Hackathon in October 2025, one of the challenges tasked teams with using LoCO sensor data to build a business case for coastal communities. A project proposing to use the LoCO AUV to monitor water conditions at offshore mussel aquaculture sites took second place - and will be prototyped. This is exactly the kind of outcome we hoped for: robotics meeting the real-world ocean economy in a way that could genuinely matter for coastal communities.&lt;/p&gt;
+
+&lt;h2 id=&quot;come-build-with-us&quot;&gt;Come Build With Us&lt;/h2&gt;
+
+&lt;p&gt;Monthly community build events are open to all. Everything you need - project docs, sim repo, build updates, and how to join - is at &lt;a href=&quot;https://bit.ly/loco-za&quot;&gt;bit.ly/loco-za&lt;/a&gt;.&lt;/p&gt;
+
+&lt;blockquote class=&quot;instagram-media&quot; data-instgrm-permalink=&quot;https://www.instagram.com/reel/DI6J7MPI4qJ/&quot; data-instgrm-version=&quot;14&quot; style=&quot;background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);&quot;&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote class=&quot;instagram-media&quot; data-instgrm-permalink=&quot;https://www.instagram.com/reel/DPLiRLTDH0R/&quot; data-instgrm-version=&quot;14&quot; style=&quot;background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);&quot;&gt;
+&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//www.instagram.com/embed.js&quot;&gt;&lt;/script&gt;</content><author><name>Campey</name></author><category term="loco-auv" /><category term="robotics" /><summary type="html">“Communities build robots and robots build communities.”</summary></entry><entry><title type="html">Lean Startup Coffee: 10 Years of Wednesday Morning Conversations</title><link href="/lean-startup-coffee/" rel="alternate" type="text/html" title="Lean Startup Coffee: 10 Years of Wednesday Morning Conversations" /><published>2025-09-08T10:00:00+00:00</published><updated>2025-09-08T10:00:00+00:00</updated><id>/lean-startup-coffee</id><content type="html" xml:base="/lean-startup-coffee/">&lt;p&gt;Every Wednesday morning at 7:30 AM, a group of people who work in startups - founders, developers, designers, operators, investors - gather online for an hour.&lt;/p&gt;
+
+&lt;p&gt;No agenda. No speaker. No slides. Just conversation.&lt;/p&gt;
+
+&lt;p&gt;That’s &lt;a href=&quot;https://www.meetup.com/lean-startup-coffee/&quot;&gt;Lean Startup Coffee&lt;/a&gt; - and it’s been running since July 2015.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-happens&quot;&gt;What Happens&lt;/h2&gt;
+
+&lt;p&gt;Lean Startup Coffee is a mash-up of two formats: &lt;a href=&quot;https://leancoffee.org&quot;&gt;leancoffee.org&lt;/a&gt; (agenda-free, participant-driven discussion) and the lean startup method. Participants propose topics at the start, vote on which ones to discuss, and the group works through them in priority order, using a timer to keep things moving.&lt;/p&gt;
+
+&lt;p&gt;Anyone can propose a topic. Topics might be: a fundraising challenge you’re stuck on, a hiring decision, a product question, a market you’re trying to understand, or something you read this week that sparked a thought.&lt;/p&gt;
+
+&lt;p&gt;The result is an hour of dense, diverse, honest conversation with people who’ve usually faced the same kinds of problems you’re facing.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Founded&lt;/strong&gt;: July 2015&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Members&lt;/strong&gt;: 4,917&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Events&lt;/strong&gt;: 536+ past events&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Rating&lt;/strong&gt;: 4.8/5 (319 ratings)&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Format&lt;/strong&gt;: Weekly, Wednesdays, 7:30 AM SAST, 1 hour&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;from-grind-for-truth-to-workadventure&quot;&gt;From Grind for Truth to WorkAdventure&lt;/h2&gt;
+
+&lt;p&gt;Lean Startup Coffee started as an in-person event at Grind for Truth coffee shop in Cape Town - Wednesday mornings, 8:30–9:30 AM. It moved online during the pandemic and stayed online, finding that the format actually works well virtually.&lt;/p&gt;
+
+&lt;p&gt;The meetup now runs on WorkAdventure - a virtual campus where people can move around and have spatial conversations, which keeps the informal, drop-in feel of a coffee shop meetup.&lt;/p&gt;
+
+&lt;h2 id=&quot;who-should-come&quot;&gt;Who Should Come&lt;/h2&gt;
+
+&lt;p&gt;If you work in a startup - or want to - this is your community. Founders at all stages, early employees, people thinking about starting something, people who’ve been through it before. The only requirement is genuine engagement with the startup world.&lt;/p&gt;
+
+&lt;p&gt;It’s free, it’s online, and it’s Wednesday morning.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Join us&lt;/strong&gt;: &lt;a href=&quot;https://www.meetup.com/lean-startup-coffee/&quot;&gt;meetup.com/lean-startup-coffee&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Lean Startup Coffee is organised by :David Campey and sponsored by &lt;a href=&quot;https://coderlevelup.org&quot;&gt;CoderLevelUp&lt;/a&gt; via &lt;a href=&quot;https://afrolabs.net&quot;&gt;Afrolabs&lt;/a&gt;.&lt;/p&gt;</content><author><name>Campey</name></author><category term="lean-startup-coffee" /><summary type="html">Every Wednesday morning at 7:30 AM, a group of people who work in startups - founders, developers, designers, operators, investors - gather online for an hour.</summary></entry><entry><title type="html">Coolest Projects South Africa 2024</title><link href="/coolestprojects2024/" rel="alternate" type="text/html" title="Coolest Projects South Africa 2024" /><published>2024-09-09T11:00:00+00:00</published><updated>2024-09-09T11:00:00+00:00</updated><id>/coolestprojects2024</id><content type="html" xml:base="/coolestprojects2024/">&lt;p&gt;Coolest Projects is the world’s leading technology fair for young people. 2024 was the fifth time in Africa!&lt;/p&gt;
+
+&lt;h1 id=&quot;update&quot;&gt;Update:&lt;/h1&gt;
+
+&lt;p&gt;The 2024 event was a huge success with over 200 participants, these are some videos from the 2024 event.&lt;/p&gt;
+
+&lt;p&gt;Coolest Projects in Cape Town: 
+&lt;a href=&quot;https://www.youtube.com/watch?v=-u8qAqq2yvI&quot;&gt;&lt;img src=&quot;assets/images/coolestprojects-youtube-2024.png&quot; alt=&quot;video of Coolest Projects Cape Town from 2024&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Coolest Projects in East London: 
+&lt;a href=&quot;https://www.youtube.com/watch?v=-m9smNosxnY&quot;&gt;&lt;img src=&quot;assets/images/coolestprojects-youtube-2024-EL.png&quot; alt=&quot;video of Coolest Projects East London from 2024&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;when&quot;&gt;When?&lt;/h1&gt;
+&lt;h2 id=&quot;1100am-on-saturday-the-9th-of-november-2024&quot;&gt;11:00am on Saturday the 9th of November 2024&lt;/h2&gt;
+
+&lt;h1 id=&quot;where&quot;&gt;Where?&lt;/h1&gt;
+
+&lt;p&gt;This year we’re delighted to announce that our Cape Town event will have 2 satellite events in Kwa-Zulu Natal and the Eastern Cape.
+You can also enter remotely - see below for details.&lt;/p&gt;
+
+&lt;h2 id=&quot;western-cape-cape-town&quot;&gt;Western Cape: Cape Town&lt;/h2&gt;
+
+&lt;p&gt;Coolest Projects 2024 will be held in Cape Town at the New Faculty of Education Building at the university of the Western Cape. Maps and directions:&lt;/p&gt;
+&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3310.225765320111!2d18.6294541!3d-33.935320999999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1dcc5162ea54a869%3A0x193af72751c7a9e3!2sFaculty%20of%20Education!5e0!3m2!1sen!2sza!4v1730995566686!5m2!1sen!2sza&quot; width=&quot;600&quot; height=&quot;450&quot; style=&quot;border:0;&quot; allowfullscreen=&quot;&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer-when-downgrade&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href=&quot;https://maps.app.goo.gl/4kyTgtHgk7bzbKKb7&quot;&gt;New Faculty of Education Building, UWC&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;kzn-durban&quot;&gt;KZN: Durban&lt;/h2&gt;
+
+&lt;p&gt;Coolest Projects 2024 will be held in Kwa-Zulu Natal at Blue Roof in Durban. Maps and directions:&lt;/p&gt;
+&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3457.396829089573!2d30.9837!3d-29.939262299999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1ef7ac02e9202971%3A0xda1f39c7fb36f658!2sThe%20Blue%20Roof%20Life%20Space!5e0!3m2!1sen!2sza!4v1730995753413!5m2!1sen!2sza&quot; width=&quot;600&quot; height=&quot;450&quot; style=&quot;border:0;&quot; allowfullscreen=&quot;&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer-when-downgrade&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href=&quot;https://maps.app.goo.gl/FkTmnHq23H3cUMxLA&quot;&gt;Blue Roof, the Bluff&lt;/a&gt;
+178 Austerville Drive, Wentworth, Durban&lt;/p&gt;
+
+&lt;h2 id=&quot;ec-east-london&quot;&gt;EC: East London:&lt;/h2&gt;
+
+&lt;p&gt;Coolest Projects 2024 will be held in the Eastern Cape at the Mandle Makupula Education Leadership Institute in East London. Maps and directions:&lt;/p&gt;
+&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3433.4220495285226!2d27.926852935335567!3d-32.99321769385759!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1e671e2b819c439d%3A0x14511516d72e3db1!2sEducation%20Leadership%20Institute!5e0!3m2!1sen!2sza!4v1730995868151!5m2!1sen!2sza&quot; width=&quot;600&quot; height=&quot;450&quot; style=&quot;border:0;&quot; allowfullscreen=&quot;&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer-when-downgrade&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href=&quot;https://maps.app.goo.gl/CjogSkSVUaP1s46d6&quot;&gt;MMELI&lt;/a&gt;
+Epsom Rd, Stirling, East London&lt;/p&gt;
+
+&lt;h1 id=&quot;how-do-i-enter&quot;&gt;How do I enter?&lt;/h1&gt;
+
+&lt;p&gt;REGISTRATIONS CLOSED, look out for next year’s event.&lt;/p&gt;
+
+&lt;!--more--&gt;
+&lt;h1 id=&quot;who-can-enter-coolest-projects&quot;&gt;Who can enter Coolest Projects?&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;any young person up to the age of 18 (or still in school)&lt;/li&gt;
+  &lt;li&gt;from any coding background whether part of a Coder Dojo, Code Club, or school society, learnt with mom/dad/aunty/etc, self-taught&lt;/li&gt;
+  &lt;li&gt;living and learning in South Africa!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;why-enter&quot;&gt;Why enter?&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;Certificates: Everyone submitting a valid project will get a certificate&lt;/li&gt;
+  &lt;li&gt;Show-casing your talent: you’ll show off what SA talent can do!&lt;/li&gt;
+  &lt;li&gt;Swag: prizes and give-aways!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;what-sort-of-projects&quot;&gt;What sort of projects?&lt;/h1&gt;
+&lt;p&gt;Lots! Here’s a video of some Coolest Projects from 2020: 
+&lt;a href=&quot;https://www.youtube.com/watch?v=C3B-UlnBlfg&quot;&gt;&lt;img src=&quot;assets/images/coolestprojects-youtube.png&quot; alt=&quot;video of Coolest Projects from 2020&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This isn’t supposed to be a totally new project (although it can be), it can be anything you might have created this year that you would like to share. Whether the work of an hour or a hundred hours, all projects are cool and welcome :)&lt;/p&gt;
+
+&lt;p&gt;Entries can be in one of the following categories:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;visual programming: projects made in scratch, blockly&lt;/li&gt;
+  &lt;li&gt;web: a page or site made in HTML, CSS and optionally javascript&lt;/li&gt;
+  &lt;li&gt;games: a game you coded on any platform&lt;/li&gt;
+  &lt;li&gt;hardware: projects involving robotics and/or electronics&lt;/li&gt;
+  &lt;li&gt;mobile apps: a mobile app project&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;how-do-i-take-part&quot;&gt;How do I take part?&lt;/h1&gt;
+
+&lt;p&gt;Register here: 
+REGISTRATIONS CLOSED, look out for next year’s event.&lt;/p&gt;
+
+&lt;h2 id=&quot;in-person&quot;&gt;In Person&lt;/h2&gt;
+&lt;p&gt;Simply bring yourself and your project to the event!&lt;/p&gt;
+
+&lt;p&gt;The in-person event will be held in Cape Town, Durban and East London on the morning of Saturday 9 November 2024.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;10:00 Project exhibitors arrive and set up at their desks&lt;/li&gt;
+  &lt;li&gt;11:00 Open to public / friends / judging starts&lt;/li&gt;
+  &lt;li&gt;13:00 Ceremony, judges awards&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The event is open to the public to come and see the coolest projects!&lt;/p&gt;
+
+&lt;h2 id=&quot;remote&quot;&gt;Remote&lt;/h2&gt;
+&lt;p&gt;If you can’t come to the event, you  can still enter: make a short video in which you answer these three questions:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Tell us about your project. Why did you choose to make it?&lt;/li&gt;
+  &lt;li&gt;What did you find difficult while making your project and how did you work it out?&lt;/li&gt;
+  &lt;li&gt;Is there anything you would do differently or you would add if you had more time?
+Send your video to (coolestprojects@coderlevelup.org) and we will send you a link to watch remotely on the day if you can, and your certificate.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Closing date for registration: Please try register to let us know you’re coming ASAP, ideally before 1 Nov, but we will accept late registrations unless the venues are full.&lt;/li&gt;
+  &lt;li&gt;Event date: 9 November 2024&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;about-coolest-projects&quot;&gt;About Coolest Projects&lt;/h1&gt;
+
+&lt;p&gt;Coolest Projects is an initiative of the &lt;a href=&quot;https://www.raspberrypi.org/&quot;&gt;Raspberry Pi Foundation&lt;/a&gt; brought to South Africa by Coder:LevelUp, a South African non-profit focused on growing coding &amp;amp; coders in South Africa and Africa.&lt;/p&gt;
+
+&lt;p&gt;We’re looking forward to announcing sponsors soon, please get in touch if you’d like to sponsor!&lt;/p&gt;
+
+&lt;h2 id=&quot;contact-details&quot;&gt;Contact details&lt;/h2&gt;
+&lt;p&gt;For most things, mail to coolestprojects@coderlevelup.org
+or for urgent contact, phone :David on +27 82 829 7212&lt;/p&gt;</content><author><name>Campey</name></author><category term="Coolest Projects" /><summary type="html">Coolest Projects is the world’s leading technology fair for young people. 2024 was the fifth time in Africa! Update: The 2024 event was a huge success with over 200 participants, these are some videos from the 2024 event. Coolest Projects in Cape Town: Coolest Projects in East London: When? 11:00am on Saturday the 9th of November 2024 Where? This year we’re delighted to announce that our Cape Town event will have 2 satellite events in Kwa-Zulu Natal and the Eastern Cape. You can also enter remotely - see below for details. Western Cape: Cape Town Coolest Projects 2024 will be held in Cape Town at the New Faculty of Education Building at the university of the Western Cape. Maps and directions: New Faculty of Education Building, UWC KZN: Durban Coolest Projects 2024 will be held in Kwa-Zulu Natal at Blue Roof in Durban. Maps and directions: Blue Roof, the Bluff 178 Austerville Drive, Wentworth, Durban EC: East London: Coolest Projects 2024 will be held in the Eastern Cape at the Mandle Makupula Education Leadership Institute in East London. Maps and directions: MMELI Epsom Rd, Stirling, East London How do I enter? REGISTRATIONS CLOSED, look out for next year’s event.</summary></entry></feed>
