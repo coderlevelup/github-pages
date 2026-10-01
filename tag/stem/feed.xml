@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
+  <link href="/tag/stem/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="/" rel="alternate" type="text/html" />
+  <updated>2026-10-01T10:41:31+00:00</updated>
+  <id>/tag/stem/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">CoderLevelUp | </title>
+  
+
+  
+    <subtitle>Levelling up our coding community, in Africa.</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">Celebrating Heritage Month with Computational Art &amp;amp; Coding at CTSC</title>
+      <link href="/heritageday2026/" rel="alternate" type="text/html" title="Celebrating Heritage Month with Computational Art &amp; Coding at CTSC" />
+      <published>2026-09-28T00:00:00+00:00</published>
+      <updated>2026-09-28T00:00:00+00:00</updated>
+      <id>/heritageday2026</id>
+      <content type="html" xml:base="/heritageday2026/">&lt;p&gt;What an incredible Heritage Day celebration at the Cape Town Science Centre!&lt;/p&gt;
+
+&lt;p&gt;In partnership with the Cape Town Science Centre and our amazing community partners, we hosted a hands-on &lt;strong&gt;Cultural Computing Activation&lt;/strong&gt; that bridged traditional African textiles, acoustic music, and modern digital literacy.&lt;/p&gt;
+
+&lt;p&gt;From physical acoustic music installations led by Brendon Bussy and the Crank Collective to interactive computational art, learners across Cape Town explored how algorithmic thinking has been embedded in traditional craft and culture for generations.&lt;/p&gt;
+
+&lt;h3 id=&quot;try-the-activities--see-the-summary&quot;&gt;Try the Activities &amp;amp; See the Summary&lt;/h3&gt;
+
+&lt;p&gt;We’ve published our Heritage Day activities alongside video highlights for educators, facilitators, and learners to explore, fork, and play with:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;TurtleStitch Geometric Embroidery: The Protea Pattern&lt;/strong&gt;&lt;br /&gt;
+Using vector mathematics and computational code, learners generated intricate geometric stitch patterns inspired by South Africa’s national flower.&lt;br /&gt;
+👉 &lt;strong&gt;&lt;a href=&quot;https://bit.ly/turtle-protea&quot;&gt;Explore the TurtleStitch Activity&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+🎥 &lt;strong&gt;&lt;a href=&quot;https://www.instagram.com/reel/DdvU6XAoaVZ/&quot;&gt;Watch the TurtleStitch Reel Summary on Instagram&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Basotho Blanket Algorithmic Art in Scratch&lt;/strong&gt;&lt;br /&gt;
+A Scratch-based coding tutorial where learners combine loops, symmetry, variables, and clones to recreate iconic Basotho blanket motifs and digital art.&lt;br /&gt;
+👉 &lt;strong&gt;&lt;a href=&quot;https://bit.ly/basotho-scratch&quot;&gt;Try the Basotho Scratch Lesson&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;looking-ahead&quot;&gt;Looking Ahead&lt;/h3&gt;
+
+&lt;p&gt;A massive thank you to MTN for sponsoring the open day and all the facilitators, partners (including AIMS, Althea and Ian), and the Cape Town Science Centre team for making this event a success.&lt;/p&gt;
+
+&lt;p&gt;By grounding computer science concepts in local cultural heritage, we continue to show that STEAM isn’t just about tech—it’s a tool for creative expression, storytelling, and honoring our shared roots.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="turtlestitch" />
+      
+        <category term="scratch" />
+      
+        <category term="heritage" />
+      
+        <category term="ctsc" />
+      
+        <category term="stem" />
+      
+        <category term="coding" />
+      
+
+      
+        <summary type="html">What an incredible Heritage Day celebration at the Cape Town Science Centre!</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>
